@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_action_bar" />
+
+    <com.hokaslibs.utils.scrollview.ResilienceScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:visibility="visible"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/ll_country"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:background="@drawable/sp_bottom_border"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:minHeight="@dimen/dp_80">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="货物发往："
+                        android:textColor="@color/color_text_333333"
+                        android:textSize="@dimen/sp_15" />
+
+                    <TextView
+                        android:id="@+id/tvCountryName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableEnd="@mipmap/ic_right_jiantou"
+                        android:drawablePadding="@dimen/dp_8"
+                        android:gravity="end"
+                        android:hint="请选择"
+                        android:textColor="@color/color_text_333333"
+                        android:textColorHint="@color/color_text_999999"
+                        android:textSize="@dimen/sp_15" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="@dimen/dp_6">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="请选择目的地国家或地区"/>
+                </LinearLayout>
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll_freightLine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:background="@drawable/sp_bottom_border"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:minHeight="@dimen/dp_80">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="物流方式："
+                        android:textColor="@color/color_text_333333"
+                        android:textSize="@dimen/sp_15" />
+
+                    <TextView
+                        android:id="@+id/tvFreightLineName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableEnd="@mipmap/ic_right_jiantou"
+                        android:drawablePadding="@dimen/dp_8"
+                        android:gravity="end"
+                        android:hint="请选择"
+                        android:textColor="@color/color_text_333333"
+                        android:textColorHint="@color/color_text_999999"
+                        android:textSize="@dimen/sp_15" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="@dimen/dp_6">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="请选择物流运输方式"/>
+                </LinearLayout>
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll_zipZone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:background="@drawable/sp_bottom_border"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:minHeight="@dimen/dp_80">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="邮编分区："
+                        android:textColor="@color/color_text_333333"
+                        android:textSize="@dimen/sp_15" />
+
+                    <TextView
+                        android:id="@+id/tvDivisionZipName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableEnd="@mipmap/ic_right_jiantou"
+                        android:drawablePadding="@dimen/dp_8"
+                        android:gravity="end"
+                        android:hint="请选择"
+                        android:textColor="@color/color_text_333333"
+                        android:textColorHint="@color/color_text_999999"
+                        android:textSize="@dimen/sp_15" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="@dimen/dp_6">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="请选择目的地邮编分区"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_cloudZone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:background="@drawable/sp_bottom_border"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:minHeight="@dimen/dp_80">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="云仓分区："
+                        android:textColor="@color/color_text_333333"
+                        android:textSize="@dimen/sp_15" />
+
+                    <TextView
+                        android:id="@+id/tvDivisionCloudName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableEnd="@mipmap/ic_right_jiantou"
+                        android:drawablePadding="@dimen/dp_8"
+                        android:gravity="end"
+                        android:hint="请选择"
+                        android:textColor="@color/color_text_333333"
+                        android:textColorHint="@color/color_text_999999"
+                        android:textSize="@dimen/sp_15" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="@dimen/dp_6">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="请选择目的地云仓"/>
+                </LinearLayout>
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll_fbaZone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:background="@drawable/sp_bottom_border"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:minHeight="@dimen/dp_80">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="FBA仓："
+                        android:textColor="@color/color_text_333333"
+                        android:textSize="@dimen/sp_15" />
+
+                    <TextView
+                        android:id="@+id/tvFbaName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableEnd="@mipmap/ic_right_jiantou"
+                        android:drawablePadding="@dimen/dp_8"
+                        android:gravity="end"
+                        android:hint="请选择"
+                        android:textColor="@color/color_text_333333"
+                        android:textColorHint="@color/color_text_999999"
+                        android:textSize="@dimen/sp_15" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="@dimen/dp_6">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="请选择FBA中转仓"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </com.hokaslibs.utils.scrollview.ResilienceScrollView>
+
+    <View style="@style/view_line_1" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_46"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/llPrev"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginRight="@dimen/dp_1"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tvPrev"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:text="上一步"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_18" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llNext"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tvNext"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:text="下一步"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_18" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

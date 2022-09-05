@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_three_ll_padding">26px</dimen>
+    <dimen name="home_three_v_BottomLineMarginLeft">28px</dimen>
+    <dimen name="home_three_tv_leftTextSize">28px</dimen>
+    <dimen name="home_three_tv_rightTextSize">26px</dimen>
+    <dimen name="home_three_tv_padding">18px</dimen>
+</resources>

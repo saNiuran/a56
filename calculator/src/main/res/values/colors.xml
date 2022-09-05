@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00A000</color>
+    <color name="colorPrimaryLight">#00c000</color>
+    <color name="colorPrimaryDark">#007000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#CCCCCC</color>
+
+
+    <color name="pers30_black">#4c000000</color>
+
+
+
+</resources>

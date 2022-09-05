@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/appBar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/dp_40"
+    android:layout_gravity="center_vertical">
+
+    <LinearLayout
+        android:id="@+id/ll_left_box"
+        android:layout_width="@dimen/dp_40"
+        android:layout_height="@dimen/dp_40"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical|center">
+
+        <TextView
+            android:id="@+id/tvTitleLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/btn_back_selector_2"
+            android:drawablePadding="@dimen/dp_6"
+            android:textColor="@color/text_button_white" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingLeft="@dimen/dp_10"
+        android:paddingRight="@dimen/dp_10"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sp_16" />
+
+    <TextView
+        android:id="@+id/tvBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toStartOf="@id/ll_right_btn_box"
+        android:layout_centerVertical="true"
+        android:textColor="@color/text_button_white"
+        android:textSize="@dimen/sp_15" />
+
+    <LinearLayout
+        android:id="@+id/ll_right_btn_box"
+        android:layout_width="@dimen/dp_40"
+        android:layout_height="@dimen/dp_40"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/dp_10"
+        android:orientation="horizontal"
+        android:gravity="center_vertical|center">
+
+        <ImageView
+            android:id="@+id/ivBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_selector"
+            android:layout_marginStart="@dimen/dp_10"/>
+    </LinearLayout>
+</RelativeLayout>

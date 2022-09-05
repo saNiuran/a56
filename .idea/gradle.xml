@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../gradle-6.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BigImageLibrary" />
+            <option value="$PROJECT_DIR$/FlycoDialog_Lib" />
+            <option value="$PROJECT_DIR$/calculator" />
+            <option value="$PROJECT_DIR$/exceptionmanager" />
+            <option value="$PROJECT_DIR$/filter-lib" />
+            <option value="$PROJECT_DIR$/hokaslibs" />
+            <option value="$PROJECT_DIR$/imageSelector" />
+            <option value="$PROJECT_DIR$/imagetrans" />
+            <option value="$PROJECT_DIR$/jiguang" />
+            <option value="$PROJECT_DIR$/rxerrorhandler" />
+            <option value="$PROJECT_DIR$/xrecyclerview" />
+            <option value="$PROJECT_DIR$/zxinglib" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtvwSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/white"
+        android:background="@drawable/sp_spinner_search"
+        android:drawableRight="@mipmap/ic_select_address"
+        android:paddingLeft="@dimen/dp_8"
+        android:paddingRight="@dimen/dp_8"
+        android:drawablePadding="@dimen/dp_5"
+        android:gravity="center_vertical|center_horizontal"
+        android:textSize="@dimen/sp_12" />
+
+<!--    <TextView-->
+<!--        android:id="@+id/txtvwSpinner"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:background="@drawable/sp_spinner_search"-->
+<!--        android:drawableRight="@mipmap/ic_select_address"-->
+<!--        android:paddingLeft="@dimen/dp_8"-->
+<!--        android:paddingRight="@dimen/dp_8"-->
+<!--        android:drawablePadding="@dimen/dp_5"-->
+<!--        android:textAlignment="center"-->
+<!--        android:gravity="center_vertical"-->
+<!--        android:textSize="@dimen/sp_12" />-->
+</com.zhy.autolayout.AutoLinearLayout>

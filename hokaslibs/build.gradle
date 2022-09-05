@@ -1,0 +1,104 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion rootProject.ext.android.compileSdkVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.android["minSdkVersion"]
+        targetSdkVersion rootProject.ext.android["targetSdkVersion"]
+        versionCode rootProject.ext.android["versionCode"]
+        versionName rootProject.ext.android["versionName"]
+
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+    }
+    buildTypes {
+        release {
+            buildConfigField "boolean", "LOG_DEBUG", "false"
+            buildConfigField "boolean", "USE_CANARY", "false"
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            buildConfigField "boolean", "LOG_DEBUG", "true"
+            buildConfigField "boolean", "USE_CANARY", "true"
+        }
+    }
+
+    lintOptions {
+//        abortOnError false
+    }
+
+}
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    api project(':rxerrorhandler')
+    api project(':FlycoDialog_Lib')
+    api project(':filter-lib')
+    api project(':xrecyclerview')
+    api project(':zxinglib')
+    api project(':imageSelector')
+    api project(':imagetrans')
+    api project(':BigImageLibrary')
+    api rootProject.ext.dependencies["appcompat-v7"]
+    api rootProject.ext.dependencies["cardview-v7"]
+    api rootProject.ext.dependencies["design"]
+    api rootProject.ext.dependencies["autolayout"]
+    api rootProject.ext.dependencies["gson"]
+    api rootProject.ext.dependencies["rxpermissions"]
+    api rootProject.ext.dependencies["rxlifecycle"]
+    api rootProject.ext.dependencies["rxlifecycle-android"]
+    api rootProject.ext.dependencies["rxlifecycle-components"]
+    api rootProject.ext.dependencies["rxandroid"]
+    api rootProject.ext.dependencies["rxjava"]
+    api rootProject.ext.dependencies["rxcache"]
+    api rootProject.ext.dependencies["rxcache-jolyglot-gson"]
+    api rootProject.ext.dependencies["retrofit"]
+    api rootProject.ext.dependencies["retrofit-converter-gson"]
+    api rootProject.ext.dependencies["retrofit-adapter-rxjava"]
+    api rootProject.ext.dependencies["okhttp3-logging-interceptor"]
+    api rootProject.ext.dependencies["okhttp3"]
+    api rootProject.ext.dependencies["utilcode"]
+    api rootProject.ext.dependencies["rebound"]
+    api rootProject.ext.dependencies["glide"]
+    api rootProject.ext.dependencies["glide-transformations"]
+    annotationProcessor rootProject.ext.dependencies["glide-compiler"]
+    api rootProject.ext.dependencies["picasso"]
+    api rootProject.ext.dependencies["timber"]
+    api rootProject.ext.dependencies["banner"]
+    api rootProject.ext.dependencies["GridViewPager"]
+    api rootProject.ext.dependencies["grantap"]
+    api rootProject.ext.dependencies["gridPasswordView"]
+    api rootProject.ext.dependencies["swipeDelmenulayout"]
+    api rootProject.ext.dependencies["circleimageview"]
+    api rootProject.ext.dependencies["XTabLayout"]
+    api rootProject.ext.dependencies["sweetalert"]
+    api rootProject.ext.dependencies["pinyin4j"]
+    api rootProject.ext.dependencies["umsdk-common"]
+    api rootProject.ext.dependencies["umsdk-asms"]
+//    api rootProject.ext.dependencies["xutils"]
+
+//    api 'com.github.SherlockGougou:BigImageViewPager:v3_4.0.1'
+
+    api project(':exceptionmanager')
+    api 'com.nex3z:flow-layout:0.1.4'
+    api 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
+    //微信支付
+    //    api 'org.xutils:xutils:3.4.0'
+    api files('libs/alipaySdk-20180403.jar')
+    api files('libs/bouncycastle.jar')
+    api files('libs/commons-codec-1.9.jar')
+    api files('libs/ormlite-android-4.49-SNAPSHOT.jar')
+    api files('libs/ormlite-core-4.49-SNAPSHOT.jar')
+    api files('libs/sun.misc.BASE64Decoder.jar')
+
+    api files('libs/open_sdk_3.5.7.4_r1bc9afe_lite.jar')
+
+    api files('libs/umeng-shareboard-widget-7.1.9.jar')
+    api files('libs/umeng-share-QQ-full-7.1.9.jar')
+    api files('libs/umeng-share-wechat-full-7.1.9.jar')
+    api files('libs/umeng-share-core-7.1.9.jar')
+    api files('libs/umeng-sharetool-7.1.9.jar')
+
+    api files('libs/SecurityEnvSDK-release-1.1.0.jar')
+
+}

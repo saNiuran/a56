@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/view"
+        android:layout_marginLeft="@dimen/dp_12"
+        android:layout_marginRight="@dimen/dp_12"
+        style="@style/view_line_1" />
+
+    <com.baiiu.filter.view.FilterCheckedTextView
+        android:id="@+id/tv_item_filter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:gravity="center"
+        android:minHeight="@dimen/dp_50"
+        android:textColor="@drawable/selector_tv_filter2"
+        android:textSize="@dimen/sp_18"
+        tools:text="选择" />
+</LinearLayout>

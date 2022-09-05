@@ -1,0 +1,2535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDataSourceStorage">
+    <data-sources>
+      <data-source>
+        <option name="deviceId" value="SERIAL_NUMBER_P7CDU18515001910" />
+        <option name="name" value="Android SQLite" />
+        <option name="comment" />
+        <option name="packageName" value="com.niule.yunjiagong" />
+        <option name="databaseName" value="em_47b187b14779f42a3f058f6f116e31a2.db" />
+        <classpath-elements>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.36.0.3/sqlite-jdbc-3.36.0.3.jar</url>
+        </classpath-elements>
+      </data-source>
+    </data-sources>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <locale>zh</locale>
+        <target>android-31</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f36a5c38-ab45-4f59-bbd0-ab138eafdde7" name="Default Changelist" comment="second" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Rich\.android\avd\4.7_WXGA_API_29.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/jiguang">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/BigImageLibrary">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/yunjiagong">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/jiguang">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/imagetrans">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/exceptionmanager">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/hokaslibs">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/easeui">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/imageSelector">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/filter-lib">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/calculator">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+                <item name="calculator" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+                <item name="calculator" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+                <item name="calculator" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+        <option value="Kotlin Class" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onCallPhone</find>
+      <find>onCommodityList</find>
+      <find>onHuo</find>
+      <find>commodityMarkPresenter</find>
+      <find>time</find>
+      <find>commodityResponse</find>
+      <find>Call</find>
+      <find>onCommodityMarked</find>
+      <find>llCollect</find>
+      <find>shareListener</find>
+      <find>swiches</find>
+      <find>onLis</find>
+      <find>pop</find>
+      <find>sharePresenter</find>
+      <find>logo</find>
+      <find>分享</find>
+      <find>onHuoBean</find>
+      <find>getOrderByNo</find>
+      <find>onL</find>
+      <find>photos</find>
+      <find>refreshToolBar</find>
+      <find>ViewPagerCommodityDetailsActivity</find>
+      <find>公告内容</find>
+      <find>gonggaoneirong</find>
+      <find>MarqueeView</find>
+      <find>HANDLER_WHAT_LIVE_MARQUEE_SCROLL</find>
+      <find>mtv</find>
+      <find>last</find>
+      <find>state</find>
+      <find>p.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>android:background=&quot;@drawable/sl_btn_ok&quot;</replace>
+      <replace>android:textSize=&quot;@dimen/sp_15&quot;</replace>
+      <replace>onAvaliableCnt</replace>
+      <replace>onAvailableCnt</replace>
+      <replace>render</replace>
+      <replace>switch_freight_prepay</replace>
+      <replace>PostCommodityStepOneActivity</replace>
+      <replace>llWholesaleMulti</replace>
+      <replace>commoditySnapshot</replace>
+      <replace>HomeOneFragment</replace>
+      <replace>homeOneFragment</replace>
+      <replace>advList</replace>
+      <replace>isAdv</replace>
+      <replace>dialog.getTvContent().setText(</replace>
+      <replace>tvBtn</replace>
+      <replace>mContext</replace>
+      <replace>dismiss();</replace>
+      <replace>equals(notifyExtras.getNotifyCode())</replace>
+      <replace>toTestDismiss();</replace>
+      <replace>notifyDialog.</replace>
+      <replace>flowLayoutHuo</replace>
+      <replace>searchText</replace>
+      <replace>btn</replace>
+      <replace>etSearch</replace>
+      <replace>this</replace>
+      <replace>searchNameList</replace>
+      <replace>tvSearch</replace>
+      <replace>root.findViewById</replace>
+      <replace>commodityResponse</replace>
+      <replace>Mark</replace>
+    </replaceStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\javaSource\jks\niule" />
+    <option name="KEY_ALIAS" value="niule" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/calculator/src/main/AndroidManifest.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/model/HomeOneModel.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/res/layout/layout_search.xml" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/res/layout/fragment_home_mall.xml" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/res/layout/activity_commodity_search_result.xml" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/HomeMallPresenter.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/res/layout/search_spinner_display_style.xml" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/res/layout/search_spinner_dropdown_style.xml" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/res/drawable/sp_spinner_search.xml" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/res/drawable/sp_one_search_bg.xml" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/res/drawable/sl_search_spinner_btn.xml" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/SearchActivity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/res/layout/include_home_one_header.xml" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/base/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/res/layout/fragment_view_pager_details_commodity.xml" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/CommodityPresenter.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/CommodityCallPresenter.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/contract/CommodityMarkContract.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/model/CommodityMarkModel.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/CommodityResponse.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/RequestBean.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/CommodityMarkPresenter.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/CommodityMarked.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/res/layout/layout_details_bottom_commodity.xml" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/Share.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/http/ApiService.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/WxShareConfig.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/CommodityShareContent.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/res/layout/layout_details_bottom.xml" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/ViewPagerDetailsFragment.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/model/CommodityShareModel.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/contract/CommodityShareContract.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/CommoditySharePresenter.java" />
+        <option value="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/http/Api.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/ViewPagerDetailsCommodityFragment.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/DetailsCommodityActivity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/ViewPagerCommodityDetailsActivity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/ViewPagerDetailsCjActivity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/ViewPagerDetailsActivity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/utils/marquee/MarqueeView.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/HomeOneFragment.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/HomeMallFragment.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/SearchCommodityResultActivity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/SearchResultActivity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/SearchResult2Activity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/SearchHuoFragment.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/SearchCjFragment.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/MyCollectActivity.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/MyCollectHuoFragment.java" />
+        <option value="$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/MyCollectCjFragment.java" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="android.BigImageLibrary/invalid/Android" />
+      <facet id="android.BigImageLibrary/invalid/Android-Gradle" />
+      <facet id="android.FlycoDialog_Lib/invalid/Android" />
+      <facet id="android.FlycoDialog_Lib/invalid/Android-Gradle" />
+      <facet id="android.calculator/invalid/Android" />
+      <facet id="android.calculator/invalid/Android-Gradle" />
+      <facet id="android.exceptionmanager/invalid/Android" />
+      <facet id="android.exceptionmanager/invalid/Android-Gradle" />
+      <facet id="android.filter-lib/invalid/Android" />
+      <facet id="android.filter-lib/invalid/Android-Gradle" />
+      <facet id="android.hokaslibs/invalid/Android" />
+      <facet id="android.hokaslibs/invalid/Android-Gradle" />
+      <facet id="android.imageSelector/invalid/Android" />
+      <facet id="android.imageSelector/invalid/Android-Gradle" />
+      <facet id="android.imagetrans/invalid/Android" />
+      <facet id="android.imagetrans/invalid/Android-Gradle" />
+      <facet id="android.jiguang/invalid/Android" />
+      <facet id="android.jiguang/invalid/Android-Gradle" />
+      <facet id="android.rxerrorhandler/invalid/Android" />
+      <facet id="android.rxerrorhandler/invalid/Android-Gradle" />
+      <facet id="android.xrecyclerview/invalid/Android" />
+      <facet id="android.xrecyclerview/invalid/Android-Gradle" />
+      <facet id="android.zxinglib/invalid/Android" />
+      <facet id="android.zxinglib/invalid/Android-Gradle" />
+      <facet id="android/invalid/Java-Gradle" />
+    </ignored-facets>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="827" />
+    <option name="width" value="1073" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectId" id="1mkW3tZNQvFOVrDN5jDNk3xoKTw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="contract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="contract" type="462c0819:PsiDirectoryNode" />
+              <item name="CommodityCallContract" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="contract" type="462c0819:PsiDirectoryNode" />
+              <item name="ShareContract" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="CommodityCallModel" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="ShareModel" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="presenter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="presenter" type="462c0819:PsiDirectoryNode" />
+              <item name="CommodityCallPresenter" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hokaslibs" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="presenter" type="462c0819:PsiDirectoryNode" />
+              <item name="SharePresenter" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="hokaslibs" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="mipmap-xxhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="release" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="niule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="niule" type="462c0819:PsiDirectoryNode" />
+              <item name="yunjiagong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="niule" type="462c0819:PsiDirectoryNode" />
+              <item name="yunjiagong" type="462c0819:PsiDirectoryNode" />
+              <item name="enume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="niule" type="462c0819:PsiDirectoryNode" />
+              <item name="yunjiagong" type="462c0819:PsiDirectoryNode" />
+              <item name="enume" type="462c0819:PsiDirectoryNode" />
+              <item name="SearchTypeEnum" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="niule" type="462c0819:PsiDirectoryNode" />
+              <item name="yunjiagong" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="niule" type="462c0819:PsiDirectoryNode" />
+              <item name="yunjiagong" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="niule" type="462c0819:PsiDirectoryNode" />
+              <item name="yunjiagong" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="niule" type="462c0819:PsiDirectoryNode" />
+              <item name="yunjiagong" type="462c0819:PsiDirectoryNode" />
+              <item name="mvp" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+              <item name="ViewPagerDetailsCommodityFragment" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="frog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="yunjiagong" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="ant.yunjiagong" />
+    <property name="DEBUGGABLE_DEVICE" value="xiaomi-mi_5-74bffb85" />
+    <property name="DEBUGGABLE_PROCESS" value="com.niule.yunjiagong" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="buyer" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-14T15:36:11.845960900Z" />
+    <property name="ExportApk.ApkPath" value="C:\project\android\ant\yunjiagong" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="LombokPluginEnabledInProject" value="false" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/easeui/build/intermediates/packaged_res/release/drawable-xxhdpi-v4/icon_check.png&#10;C:/project/android/ant/easeui/build/intermediates/packaged_res/debug/layout/baidumap_rgc_item.xml" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/widget/Toolbar.java_SELECTED" value="Toolbar" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/AppCompatEditText.java_SELECTED" value="AppCompatEditText" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/AppCompatTextView.java_SELECTED" value="AppCompatTextView" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/Toolbar.java_SELECTED" value="Toolbar" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/Toolbar.java_Toolbar_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0/c9f3ce7ca74ad2c978230f4094ba6804c5166f9c/cardview-1.0.0-sources.jar!/androidx/cardview/widget/CardView.java_SELECTED" value="CardView" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout/2.1.3/ef09d725f04e18996fce65076118fc289416b8ca/constraintlayout-2.1.3-sources.jar!/androidx/constraintlayout/widget/ConstraintLayout.java_ConstraintLayout_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout/2.1.3/ef09d725f04e18996fce65076118fc289416b8ca/constraintlayout-2.1.3-sources.jar!/androidx/constraintlayout/widget/ConstraintLayout.java_SELECTED" value="ConstraintLayout" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_RecyclerView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.0-beta01/18e9deecb147fc3436421f7d77e65f0cf39a1a17/recyclerview-1.2.0-beta01-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/androidx/swiperefreshlayout/widget/SwipeRefreshLayout.java_SELECTED" value="SwipeRefreshLayout" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/androidx/swiperefreshlayout/widget/SwipeRefreshLayout.java_SwipeRefreshLayout_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/ViewPager.java_SELECTED" value="ViewPager" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java_View_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-28/android/widget/CompoundButton.java_CompoundButton_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-28/android/widget/CompoundButton.java_SELECTED" value="CompoundButton" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_View_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/view/ViewGroup.java_ViewGroup_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/CompoundButton.java_SELECTED" value="CompoundButton" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/FrameLayout.java_SELECTED" value="FrameLayout" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/ImageView.java_ImageView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/ImageView.java_SELECTED" value="ImageView" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/LinearLayout.java_SELECTED" value="LinearLayout" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/RelativeLayout.java_RelativeLayout_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/RelativeLayout.java_SELECTED" value="RelativeLayout" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/ScrollView.java_SELECTED" value="ScrollView" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/ScrollView.java_ScrollView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-29/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/qiniu/view/SectionProgressBar.java_SELECTED" value="SectionProgressBar" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/qiniu/view/SquareGLSurfaceView.java_SELECTED" value="SquareGLSurfaceView" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/utils/AdvanceSwipeRefreshLayout.java_SELECTED" value="AdvanceSwipeRefreshLayout" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/utils/MarqueeTextView.java_SELECTED" value="MarqueeTextView" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/utils/MyTextView.java_SELECTED" value="MyTextView" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/utils/NoScrollViewPager.java_SELECTED" value="NoScrollViewPager" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/utils/ObservableScrollView.java_SELECTED" value="ObservableScrollView" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/utils/ObservableScrollView2.java_SELECTED" value="ObservableScrollView2" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/utils/expandable/AnimatedExpandableListView.java_SELECTED" value="AnimatedExpandableListView" />
+    <property name="android-custom-viewC:/project/56/android/calculator/src/main/java/com/niule/a56/calculator/utils/expandable/NestFullListView.java_SELECTED" value="NestFullListView" />
+    <property name="android-custom-viewC:/project/56/android/hokaslibs/src/main/java/com/hokaslibs/utils/ZQImageViewCircleOval.java_SELECTED" value="ZQImageViewCircleOval" />
+    <property name="android-custom-viewC:/project/56/android/hokaslibs/src/main/java/com/hokaslibs/utils/ZQImageViewRoundOval.java_SELECTED" value="ZQImageViewRoundOval" />
+    <property name="android-custom-viewC:/project/56/android/hokaslibs/src/main/java/com/hokaslibs/utils/auto/AutoCardView.java_SELECTED" value="AutoCardView" />
+    <property name="android-custom-viewC:/project/56/android/hokaslibs/src/main/java/com/hokaslibs/utils/auto/AutoRadioGroup.java_SELECTED" value="AutoRadioGroup" />
+    <property name="android-custom-viewC:/project/56/android/hokaslibs/src/main/java/com/hokaslibs/utils/picker_view/wheel/WheelView.java_SELECTED" value="WheelView" />
+    <property name="android-custom-viewC:/project/56/android/xrecyclerview/src/main/java/com/jcodecraeer/xrecyclerview/XRecyclerView.java_SELECTED" value="XRecyclerView" />
+    <property name="android-custom-viewC:/project/android/ant/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatMessageListLayout.java_SELECTED" value="EaseChatMessageListLayout" />
+    <property name="android-custom-viewC:/project/android/ant/yunjiagong/src/main/java/com/niule/yunjiagong/huanxin/common/widget/SwitchItemView.java_SELECTED" value="SwitchItemView" />
+    <property name="android-custom-viewC:/project/android/frog/BigImageLibrary/src/main/java/cc/shinichi/library/view/HackyViewPager.java_SELECTED" value="HackyViewPager" />
+    <property name="android-custom-viewC:/project/android/frog/BigImageLibrary/src/main/java/cc/shinichi/library/view/helper/FingerDragHelper.java_SELECTED" value="FingerDragHelper" />
+    <property name="android-custom-viewC:/project/android/frog/BigImageLibrary/src/main/java/cc/shinichi/library/view/helper/SubsamplingScaleImageViewDragClose.java_SELECTED" value="SubsamplingScaleImageViewDragClose" />
+    <property name="android-custom-viewC:/project/android/frog/BigImageLibrary/src/main/java/cc/shinichi/library/view/photoview/PhotoView.java_PhotoView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/BigImageLibrary/src/main/java/cc/shinichi/library/view/photoview/PhotoView.java_SELECTED" value="PhotoView" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/EaseBaseLayout.java_SELECTED" value="EaseBaseLayout" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatExtendMenu.java_EaseChatExtendMenu_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatExtendMenu.java_SELECTED" value="EaseChatExtendMenu" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatInputMenu.java_EaseChatInputMenu_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatInputMenu.java_SELECTED" value="EaseChatInputMenu" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatLayout.java_EaseChatLayout_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatLayout.java_SELECTED" value="EaseChatLayout" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatMessageListLayout.java_SELECTED" value="EaseChatMessageListLayout" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatPrimaryMenu.java_SELECTED" value="EaseChatPrimaryMenu" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/conversation/EaseConversationListLayout.java_EaseConversationListLayout_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/modules/conversation/EaseConversationListLayout.java_SELECTED" value="EaseConversationListLayout" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseChatMessageList.java_EaseChatMessageList_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseChatMessageList.java_SELECTED" value="EaseChatMessageList" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseContactList.java_EaseContactList_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseContactList.java_SELECTED" value="EaseContactList" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseConversationList.java_EaseConversationList_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseConversationList.java_SELECTED" value="EaseConversationList" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseExpandGridView.java_SELECTED" value="EaseExpandGridView" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseImageView.java_SELECTED" value="EaseImageView" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseRecyclerView.java_EaseRecyclerView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseRecyclerView.java_SELECTED" value="EaseRecyclerView" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseSearchTextView.java_EaseSearchTextView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseSearchTextView.java_SELECTED" value="EaseSearchTextView" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseSwitchButton.java_SELECTED" value="EaseSwitchButton" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseTitleBar.java_EaseTitleBar_DIMENSIONS" value="875&#10;1791" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseTitleBar.java_SELECTED" value="EaseTitleBar" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/EaseVoiceRecorderView.java_SELECTED" value="EaseVoiceRecorderView" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView.java_SELECTED" value="EaseEmojiconPagerView" />
+    <property name="android-custom-viewC:/project/android/frog/easeui/src/main/java/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar.java_SELECTED" value="EaseEmojiconScrollTabBar" />
+    <property name="android-custom-viewC:/project/android/frog/filter-lib/src/main/java/com/baiiu/filter/view/FilterCheckedTextView.java_SELECTED" value="FilterCheckedTextView" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/AutoScaleWidthImageView.java_SELECTED" value="AutoScaleWidthImageView" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/MyRadioGroup.java_SELECTED" value="MyRadioGroup" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/NestedParent.java_SELECTED" value="NestedParent" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/NoticeView.java_SELECTED" value="NoticeView" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/PasswordView.java_SELECTED" value="PasswordView" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/ToggleButton.java_SELECTED" value="ToggleButton" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/TopRoundedImageView.java_SELECTED" value="TopRoundedImageView" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/auto/AutoCardView.java_SELECTED" value="AutoCardView" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/easyvideoplayer/EasyVideoPlayer.java_SELECTED" value="EasyVideoPlayer" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/indicator/CirclePageIndicator.java_SELECTED" value="CirclePageIndicator" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/pay/PayRadioGroup.java_SELECTED" value="PayRadioGroup" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/scrollview/ResilienceScrollView.java_ResilienceScrollView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/scrollview/ResilienceScrollView.java_SELECTED" value="ResilienceScrollView" />
+    <property name="android-custom-viewC:/project/android/frog/hokaslibs/src/main/java/com/hokaslibs/utils/viewtype/ProgressActivity.java_SELECTED" value="ProgressActivity" />
+    <property name="android-custom-viewC:/project/android/frog/imageSelector/src/main/java/com/yuyh/library/imgsel/widget/CustomViewPager.java_SELECTED" value="CustomViewPager" />
+    <property name="android-custom-viewC:/project/android/frog/imagetrans/src/main/java/it/liuting/imagetrans/InterceptViewPager.java_SELECTED" value="InterceptViewPager" />
+    <property name="android-custom-viewC:/project/android/frog/imagetrans/src/main/java/it/liuting/imagetrans/TransImageView.java_SELECTED" value="TransImageView" />
+    <property name="android-custom-viewC:/project/android/frog/xrecyclerview/src/main/java/com/jcodecraeer/xrecyclerview/LoadingMoreFooter.java_SELECTED" value="LoadingMoreFooter" />
+    <property name="android-custom-viewC:/project/android/frog/xrecyclerview/src/main/java/com/jcodecraeer/xrecyclerview/XRecyclerView.java_SELECTED" value="XRecyclerView" />
+    <property name="android-custom-viewC:/project/android/frog/xrecyclerview/src/main/java/com/jcodecraeer/xrecyclerview/progressindicator/AVLoadingIndicatorView.java_SELECTED" value="AVLoadingIndicatorView" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/huanxin/common/widget/ArrowItemView.java_SELECTED" value="ArrowItemView" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/huanxin/common/widget/ContactItemView.java_SELECTED" value="ContactItemView" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/huanxin/common/widget/EasePageIndicator.java_SELECTED" value="EasePageIndicator" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/huanxin/common/widget/RecyclingImageView.java_SELECTED" value="RecyclingImageView" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/huanxin/common/widget/SwitchItemView.java_SELECTED" value="SwitchItemView" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/huanxin/widget/RecyclingImageView.java_SELECTED" value="RecyclingImageView" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/qiniu/view/SquareGLSurfaceView.java_SELECTED" value="SquareGLSurfaceView" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/utils/AdvanceSwipeRefreshLayout.java_SELECTED" value="AdvanceSwipeRefreshLayout" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/utils/MarqueeTextView.java_SELECTED" value="MarqueeTextView" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/utils/MyTextView.java_SELECTED" value="MyTextView" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/utils/NoScrollViewPager.java_SELECTED" value="NoScrollViewPager" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/utils/imageload/RoundPageIndicator.java_SELECTED" value="RoundPageIndicator" />
+    <property name="android-custom-viewC:/project/android/frog/yunjiagong/src/main/java/com/niule/yunjiagong/utils/marquee/MarqueeView.java_SELECTED" value="MarqueeView" />
+    <property name="android-custom-viewC:/project/android/frog/zxinglib/src/main/java/com/king/zxing/ViewfinderView.java_SELECTED" value="ViewfinderView" />
+    <property name="android.recentlyUsedThemes" value="android:Theme.Material.Light" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="device.picker.selection" value="seller" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/calculator/src/main/res/drawable" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.382494" />
+    <property name="recommended.upgrade.do.not.ask.for.version" value="4.0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="BUILD_VARIANTS_TAB" value="Build Types" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.niule.yunjiagong.mvp.ui.activity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\56\android\calculator\src\main\res\drawable" />
+      <recent name="C:\project\56\android\calculator\src\main\res\layout" />
+      <recent name="C:\project\56\android\calculator\src\main\res\mipmap-hdpi" />
+      <recent name="C:\project\56\android\hokaslibs\src\main\res\drawable" />
+      <recent name="C:\project\56\android\calculator\src\main\java\com\niule\a56\calculator\mvp\ui\fragment" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\56\android\calculator\src\main\res\drawable" />
+      <recent name="C:\project\56\android\calculator\src\main\java\com\niule" />
+      <recent name="C:\project\android\frog\easeui\libs" />
+      <recent name="C:\project\android\frog\yunjiagong\libs" />
+      <recent name="C:\project\android\frog\jiguang\src\main\res\drawable-hdpi" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hokaslibs.mvp.bean" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.niule.a56.calculator.mvp.ui.adapter" />
+      <recent name="com.niule.a56.calculator.bean" />
+      <recent name="com.niule.a56.calculator.mvp.model" />
+      <recent name="com.niule.a56.calculator.mvp.contract" />
+      <recent name="com.niule.a56.calculator.mvp.presenter" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="calculator" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.calculator" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" goal="" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Rich\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f36a5c38-ab45-4f59-bbd0-ab138eafdde7" name="Default Changelist" comment="" />
+      <created>1585314587762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585314587762</updated>
+      <workItem from="1585314589420" duration="2067000" />
+      <workItem from="1585317293069" duration="11000" />
+      <workItem from="1585328857916" duration="1243000" />
+      <workItem from="1585370955060" duration="17207000" />
+      <workItem from="1585412009985" duration="2879000" />
+      <workItem from="1585674365855" duration="1725000" />
+      <workItem from="1585878735221" duration="6705000" />
+      <workItem from="1585912543253" duration="1234000" />
+      <workItem from="1585975709184" duration="10121000" />
+      <workItem from="1586053013715" duration="27971000" />
+      <workItem from="1586227464353" duration="18319000" />
+      <workItem from="1586311011001" duration="6560000" />
+      <workItem from="1586415152759" duration="1902000" />
+      <workItem from="1586500098112" duration="2473000" />
+      <workItem from="1586659148095" duration="14313000" />
+      <workItem from="1586788064308" duration="26536000" />
+      <workItem from="1587812734716" duration="3478000" />
+      <workItem from="1587955508438" duration="23588000" />
+      <workItem from="1588041621389" duration="35447000" />
+      <workItem from="1588143775853" duration="946000" />
+      <workItem from="1588212727592" duration="10331000" />
+      <workItem from="1588233959839" duration="26222000" />
+      <workItem from="1588388919996" duration="20580000" />
+      <workItem from="1588471031074" duration="41954000" />
+      <workItem from="1589612965556" duration="7533000" />
+      <workItem from="1589769478589" duration="23887000" />
+      <workItem from="1591148857291" duration="1798000" />
+      <workItem from="1591202897355" duration="785000" />
+      <workItem from="1591210583236" duration="965000" />
+      <workItem from="1591212241400" duration="78000" />
+      <workItem from="1591212581018" duration="3571000" />
+      <workItem from="1591217676404" duration="6880000" />
+      <workItem from="1591422750325" duration="7894000" />
+      <workItem from="1591463003119" duration="9000" />
+      <workItem from="1591507305613" duration="15611000" />
+      <workItem from="1592119171451" duration="11623000" />
+      <workItem from="1592137558148" duration="6198000" />
+      <workItem from="1592145167827" duration="5226000" />
+      <workItem from="1592187055662" duration="3987000" />
+      <workItem from="1592202309927" duration="1410000" />
+      <workItem from="1592705187789" duration="3484000" />
+      <workItem from="1592725267430" duration="2783000" />
+      <workItem from="1592931441195" duration="3056000" />
+      <workItem from="1593013899417" duration="3894000" />
+      <workItem from="1593093578130" duration="3326000" />
+      <workItem from="1593096976095" duration="6356000" />
+      <workItem from="1593180989423" duration="3018000" />
+      <workItem from="1593263567592" duration="3257000" />
+      <workItem from="1593316379958" duration="12286000" />
+      <workItem from="1593445593126" duration="1730000" />
+      <workItem from="1593682512482" duration="615000" />
+      <workItem from="1594608703982" duration="1477000" />
+      <workItem from="1594794525163" duration="1262000" />
+      <workItem from="1595067909798" duration="774000" />
+      <workItem from="1595403661270" duration="167000" />
+      <workItem from="1595412743026" duration="487000" />
+      <workItem from="1595489029377" duration="1862000" />
+      <workItem from="1595500626497" duration="1625000" />
+      <workItem from="1595554376640" duration="5777000" />
+      <workItem from="1595595440445" duration="4155000" />
+      <workItem from="1595646921950" duration="1334000" />
+      <workItem from="1595655027567" duration="617000" />
+      <workItem from="1595684245194" duration="556000" />
+      <workItem from="1595911127043" duration="2286000" />
+      <workItem from="1596021353873" duration="475000" />
+      <workItem from="1596335667547" duration="1872000" />
+      <workItem from="1596551246775" duration="824000" />
+      <workItem from="1596554887863" duration="607000" />
+      <workItem from="1597210900961" duration="5436000" />
+      <workItem from="1597224082727" duration="3246000" />
+      <workItem from="1597229055284" duration="1598000" />
+      <workItem from="1597311423639" duration="1051000" />
+      <workItem from="1597836282002" duration="612000" />
+      <workItem from="1597841097338" duration="278000" />
+      <workItem from="1597894109497" duration="2522000" />
+      <workItem from="1597930234693" duration="153000" />
+      <workItem from="1598284872190" duration="45000" />
+      <workItem from="1598693953564" duration="730000" />
+      <workItem from="1600071355052" duration="6010000" />
+      <workItem from="1600319308420" duration="4953000" />
+      <workItem from="1600333550624" duration="977000" />
+      <workItem from="1600341613722" duration="1906000" />
+      <workItem from="1600399088647" duration="1252000" />
+      <workItem from="1600417336301" duration="77000" />
+      <workItem from="1600515309443" duration="819000" />
+      <workItem from="1600524949519" duration="3203000" />
+      <workItem from="1600590827811" duration="3315000" />
+      <workItem from="1600655764833" duration="8464000" />
+      <workItem from="1600738955176" duration="4699000" />
+      <workItem from="1600822674211" duration="7991000" />
+      <workItem from="1600914444368" duration="3712000" />
+      <workItem from="1600998775986" duration="599000" />
+      <workItem from="1601174627634" duration="810000" />
+      <workItem from="1601192883891" duration="1325000" />
+      <workItem from="1601196505739" duration="4964000" />
+      <workItem from="1601365301903" duration="1191000" />
+      <workItem from="1602985157746" duration="1713000" />
+      <workItem from="1605124799881" duration="2434000" />
+      <workItem from="1605150048695" duration="3502000" />
+      <workItem from="1605161891159" duration="55000" />
+      <workItem from="1605165508826" duration="193000" />
+      <workItem from="1605310911385" duration="752000" />
+      <workItem from="1605670853957" duration="383000" />
+      <workItem from="1605711529630" duration="30000" />
+      <workItem from="1606117883903" duration="3719000" />
+      <workItem from="1606121621774" duration="110000" />
+      <workItem from="1606204902922" duration="1240000" />
+      <workItem from="1606284749850" duration="107000" />
+      <workItem from="1606285198066" duration="1835000" />
+      <workItem from="1606367149755" duration="1314000" />
+      <workItem from="1606369923935" duration="115000" />
+      <workItem from="1606833804637" duration="2452000" />
+      <workItem from="1606887856286" duration="375000" />
+      <workItem from="1606888838649" duration="135000" />
+      <workItem from="1606974742060" duration="2097000" />
+      <workItem from="1606976865305" duration="4500000" />
+      <workItem from="1606985529642" duration="595000" />
+      <workItem from="1607002204184" duration="16934000" />
+      <workItem from="1607066792334" duration="43399000" />
+      <workItem from="1607393263331" duration="12732000" />
+      <workItem from="1607448752448" duration="2404000" />
+      <workItem from="1607483781775" duration="69000" />
+      <workItem from="1607483930898" duration="757000" />
+      <workItem from="1607486484717" duration="13626000" />
+      <workItem from="1607524196564" duration="1418000" />
+      <workItem from="1607757676063" duration="932000" />
+      <workItem from="1607763094129" duration="1098000" />
+      <workItem from="1607775232899" duration="1298000" />
+      <workItem from="1607783051055" duration="334000" />
+      <workItem from="1607790204895" duration="1216000" />
+      <workItem from="1607844873373" duration="1000000" />
+      <workItem from="1607952442106" duration="692000" />
+      <workItem from="1607970031199" duration="88000" />
+      <workItem from="1607970244715" duration="106000" />
+      <workItem from="1608004241159" duration="9495000" />
+      <workItem from="1608021030286" duration="12936000" />
+      <workItem from="1608094492769" duration="2489000" />
+      <workItem from="1608097030346" duration="4592000" />
+      <workItem from="1608104302068" duration="5617000" />
+      <workItem from="1608138277902" duration="661000" />
+      <workItem from="1608303721529" duration="5941000" />
+      <workItem from="1608348355177" duration="150000" />
+      <workItem from="1608351789733" duration="343000" />
+      <workItem from="1608363400267" duration="415000" />
+      <workItem from="1608363948805" duration="617000" />
+      <workItem from="1608367632769" duration="2947000" />
+      <workItem from="1608380355183" duration="186000" />
+      <workItem from="1608382525064" duration="5447000" />
+      <workItem from="1608388545221" duration="1126000" />
+      <workItem from="1608432577039" duration="38558000" />
+      <workItem from="1608514870838" duration="13686000" />
+      <workItem from="1608620242675" duration="348000" />
+      <workItem from="1608620633898" duration="13193000" />
+      <workItem from="1608646684831" duration="2992000" />
+      <workItem from="1608652577657" duration="2689000" />
+      <workItem from="1608689521179" duration="6198000" />
+      <workItem from="1608719703390" duration="3426000" />
+      <workItem from="1608723296467" duration="916000" />
+      <workItem from="1608724302162" duration="1995000" />
+      <workItem from="1608784131378" duration="1319000" />
+      <workItem from="1609503604245" duration="21000" />
+      <workItem from="1609505583076" duration="416000" />
+      <workItem from="1609506034235" duration="3301000" />
+      <workItem from="1609548593978" duration="16000" />
+      <workItem from="1609548909488" duration="6053000" />
+      <workItem from="1609832172259" duration="6530000" />
+      <workItem from="1609848622751" duration="7115000" />
+      <workItem from="1609855902092" duration="12892000" />
+      <workItem from="1609869032652" duration="783000" />
+      <workItem from="1609898019332" duration="1268000" />
+      <workItem from="1609901327246" duration="8844000" />
+      <workItem from="1609918242639" duration="4893000" />
+      <workItem from="1609923720021" duration="765000" />
+      <workItem from="1609924951759" duration="656000" />
+      <workItem from="1609927198643" duration="1710000" />
+      <workItem from="1609937974149" duration="12645000" />
+      <workItem from="1609985842305" duration="18677000" />
+      <workItem from="1610023661840" duration="10907000" />
+      <workItem from="1610037887907" duration="1769000" />
+      <workItem from="1610071798595" duration="6165000" />
+      <workItem from="1610080764915" duration="5727000" />
+      <workItem from="1610198244100" duration="59000" />
+      <workItem from="1610283789682" duration="1417000" />
+      <workItem from="1610285270669" duration="12553000" />
+      <workItem from="1610344937320" duration="5984000" />
+      <workItem from="1610426810589" duration="605000" />
+      <workItem from="1610460506642" duration="8413000" />
+      <workItem from="1611048142346" duration="283000" />
+      <workItem from="1611136293372" duration="8247000" />
+      <workItem from="1611195382696" duration="1813000" />
+      <workItem from="1611200046553" duration="8100000" />
+      <workItem from="1611281509338" duration="9484000" />
+      <workItem from="1611391041490" duration="1327000" />
+      <workItem from="1611407570977" duration="51000" />
+      <workItem from="1611565884993" duration="1611000" />
+      <workItem from="1611729123768" duration="1569000" />
+      <workItem from="1611825575733" duration="1677000" />
+      <workItem from="1611827981811" duration="5155000" />
+      <workItem from="1611884392241" duration="745000" />
+      <workItem from="1611888886749" duration="71000" />
+      <workItem from="1611889984070" duration="4315000" />
+      <workItem from="1611895315782" duration="280000" />
+      <workItem from="1611903868122" duration="1947000" />
+      <workItem from="1611972868130" duration="2353000" />
+      <workItem from="1611982286001" duration="16682000" />
+      <workItem from="1612030744589" duration="27806000" />
+      <workItem from="1612146161220" duration="281000" />
+      <workItem from="1612154771164" duration="13724000" />
+      <workItem from="1612187853200" duration="14500000" />
+      <workItem from="1612234221235" duration="11598000" />
+      <workItem from="1612281807107" duration="374000" />
+      <workItem from="1612327677165" duration="167000" />
+      <workItem from="1612328101309" duration="7832000" />
+      <workItem from="1612361147299" duration="10000" />
+      <workItem from="1612367480188" duration="809000" />
+      <workItem from="1612375840983" duration="198000" />
+      <workItem from="1612401923380" duration="5279000" />
+      <workItem from="1612673774867" duration="662000" />
+      <workItem from="1613181811190" duration="22751000" />
+      <workItem from="1613359115919" duration="27243000" />
+      <workItem from="1613452887017" duration="11787000" />
+      <workItem from="1613527723516" duration="2744000" />
+      <workItem from="1613530758796" duration="20072000" />
+      <workItem from="1613621393360" duration="49000" />
+      <workItem from="1613622526166" duration="11502000" />
+      <workItem from="1613662827782" duration="139000" />
+      <workItem from="1613663637085" duration="678000" />
+      <workItem from="1613703914035" duration="1107000" />
+      <workItem from="1613786288532" duration="1012000" />
+      <workItem from="1613787760381" duration="6167000" />
+      <workItem from="1613794617242" duration="25880000" />
+      <workItem from="1613870952759" duration="5616000" />
+      <workItem from="1613909566952" duration="19477000" />
+      <workItem from="1613956463929" duration="31034000" />
+      <workItem from="1614008804951" duration="7186000" />
+      <workItem from="1614048233949" duration="3860000" />
+      <workItem from="1614052616653" duration="9265000" />
+      <workItem from="1614066837095" duration="23669000" />
+      <workItem from="1614130765995" duration="18344000" />
+      <workItem from="1614218900833" duration="3510000" />
+      <workItem from="1614236245459" duration="1828000" />
+      <workItem from="1614239024451" duration="17520000" />
+      <workItem from="1614310088207" duration="37344000" />
+      <workItem from="1614393347562" duration="9906000" />
+      <workItem from="1614582845349" duration="7807000" />
+      <workItem from="1614602195290" duration="7359000" />
+      <workItem from="1614740433429" duration="806000" />
+      <workItem from="1614774859770" duration="1311000" />
+      <workItem from="1614779702477" duration="629000" />
+      <workItem from="1614780558976" duration="243000" />
+      <workItem from="1614871605718" duration="83000" />
+      <workItem from="1614879352715" duration="313000" />
+      <workItem from="1614919446997" duration="1967000" />
+      <workItem from="1615020235470" duration="1989000" />
+      <workItem from="1615031732108" duration="72000" />
+      <workItem from="1615031954421" duration="6977000" />
+      <workItem from="1615052386945" duration="2296000" />
+      <workItem from="1615055991554" duration="482000" />
+      <workItem from="1615178176203" duration="99000" />
+      <workItem from="1615178313947" duration="3639000" />
+      <workItem from="1615346848746" duration="488000" />
+      <workItem from="1615366189795" duration="1129000" />
+      <workItem from="1615429933218" duration="2083000" />
+      <workItem from="1615470561923" duration="10709000" />
+      <workItem from="1615481339968" duration="4000" />
+      <workItem from="1615601289459" duration="1185000" />
+      <workItem from="1615655172662" duration="210000" />
+      <workItem from="1615659704816" duration="632000" />
+      <workItem from="1615687675651" duration="5482000" />
+      <workItem from="1615706545636" duration="27261000" />
+      <workItem from="1615794244139" duration="36000" />
+      <workItem from="1615912817421" duration="2061000" />
+      <workItem from="1615988211564" duration="3540000" />
+      <workItem from="1615999220597" duration="1753000" />
+      <workItem from="1616044797788" duration="1747000" />
+      <workItem from="1616071453105" duration="10543000" />
+      <workItem from="1616084177346" duration="77000" />
+      <workItem from="1616142608004" duration="826000" />
+      <workItem from="1616210357389" duration="2476000" />
+      <workItem from="1616227908866" duration="1250000" />
+      <workItem from="1616377680568" duration="1475000" />
+      <workItem from="1616464243638" duration="758000" />
+      <workItem from="1616731434798" duration="587000" />
+      <workItem from="1616748090630" duration="36000" />
+      <workItem from="1617323869548" duration="38497000" />
+      <workItem from="1617417595762" duration="31845000" />
+      <workItem from="1617497529457" duration="33593000" />
+      <workItem from="1617694844260" duration="4706000" />
+      <workItem from="1617702243855" duration="7248000" />
+      <workItem from="1617713766098" duration="697000" />
+      <workItem from="1617716094223" duration="2892000" />
+      <workItem from="1617757388232" duration="3351000" />
+      <workItem from="1617846191611" duration="22496000" />
+      <workItem from="1617929807243" duration="36493000" />
+      <workItem from="1618019997606" duration="5200000" />
+      <workItem from="1618307486813" duration="4018000" />
+      <workItem from="1618556216955" duration="5012000" />
+      <workItem from="1618574473197" duration="116000" />
+      <workItem from="1618741819330" duration="947000" />
+      <workItem from="1619420078361" duration="1406000" />
+      <workItem from="1619515443459" duration="904000" />
+      <workItem from="1619539291444" duration="703000" />
+      <workItem from="1619540030636" duration="327000" />
+      <workItem from="1619594145673" duration="1400000" />
+      <workItem from="1619667166583" duration="592000" />
+      <workItem from="1619703338084" duration="139000" />
+      <workItem from="1620438868997" duration="2398000" />
+      <workItem from="1620441355780" duration="2231000" />
+      <workItem from="1621419331254" duration="736000" />
+      <workItem from="1621582673898" duration="1585000" />
+      <workItem from="1621588052573" duration="4386000" />
+      <workItem from="1621646619746" duration="6577000" />
+      <workItem from="1621836302179" duration="5490000" />
+      <workItem from="1621905875565" duration="2719000" />
+      <workItem from="1622373610864" duration="1774000" />
+      <workItem from="1622597064886" duration="2276000" />
+      <workItem from="1622625935328" duration="6707000" />
+      <workItem from="1623497456513" duration="123000" />
+      <workItem from="1623550342284" duration="6759000" />
+      <workItem from="1623557359110" duration="2974000" />
+      <workItem from="1623575479283" duration="66000" />
+      <workItem from="1623593351028" duration="3655000" />
+      <workItem from="1623600266909" duration="730000" />
+      <workItem from="1623603515227" duration="956000" />
+      <workItem from="1623604963577" duration="286000" />
+      <workItem from="1623636894262" duration="1290000" />
+      <workItem from="1623660740781" duration="414000" />
+      <workItem from="1623662231813" duration="3704000" />
+      <workItem from="1623725247225" duration="647000" />
+      <workItem from="1623853233501" duration="1109000" />
+      <workItem from="1626338250008" duration="829000" />
+      <workItem from="1629766926207" duration="1005000" />
+      <workItem from="1629823214022" duration="4801000" />
+      <workItem from="1629828082837" duration="5292000" />
+      <workItem from="1629912165058" duration="3740000" />
+      <workItem from="1629915980575" duration="848000" />
+      <workItem from="1629916879539" duration="9888000" />
+      <workItem from="1630028151856" duration="7218000" />
+      <workItem from="1631276683663" duration="1219000" />
+      <workItem from="1631861788257" duration="1748000" />
+      <workItem from="1631902261479" duration="61000" />
+      <workItem from="1632034739801" duration="83000" />
+      <workItem from="1635952465372" duration="3327000" />
+      <workItem from="1635956050300" duration="3546000" />
+      <workItem from="1635959759408" duration="574000" />
+      <workItem from="1636248129219" duration="1113000" />
+      <workItem from="1636939969836" duration="2846000" />
+      <workItem from="1636956580713" duration="690000" />
+      <workItem from="1636957417555" duration="766000" />
+      <workItem from="1636959578726" duration="646000" />
+      <workItem from="1636962075560" duration="1977000" />
+      <workItem from="1636966524624" duration="1151000" />
+      <workItem from="1637049188027" duration="294000" />
+      <workItem from="1644925264385" duration="687000" />
+      <workItem from="1644926540162" duration="260000" />
+      <workItem from="1644926920728" duration="641000" />
+      <workItem from="1644928219833" duration="494000" />
+      <workItem from="1644928729180" duration="1160000" />
+      <workItem from="1644930066250" duration="2358000" />
+      <workItem from="1644932466952" duration="365000" />
+      <workItem from="1645789611096" duration="5297000" />
+      <workItem from="1645807619770" duration="5000" />
+      <workItem from="1645807640661" duration="2220000" />
+      <workItem from="1645836833506" duration="7707000" />
+      <workItem from="1645895839727" duration="1000" />
+      <workItem from="1645924146808" duration="10778000" />
+      <workItem from="1646274261258" duration="4694000" />
+      <workItem from="1646387089989" duration="34962000" />
+      <workItem from="1646531405762" duration="26725000" />
+      <workItem from="1647274746030" duration="1878000" />
+      <workItem from="1648000082711" duration="31905000" />
+      <workItem from="1648100394936" duration="13133000" />
+      <workItem from="1648114769462" duration="12398000" />
+      <workItem from="1648199217917" duration="6086000" />
+      <workItem from="1648344754906" duration="614000" />
+      <workItem from="1648345416297" duration="1855000" />
+      <workItem from="1648349314356" duration="10590000" />
+      <workItem from="1648433888524" duration="29393000" />
+      <workItem from="1648486363087" duration="1249000" />
+      <workItem from="1648523746954" duration="5392000" />
+      <workItem from="1648544709230" duration="7159000" />
+      <workItem from="1648605981606" duration="17391000" />
+      <workItem from="1648631793153" duration="3519000" />
+      <workItem from="1648693546842" duration="21913000" />
+      <workItem from="1648732332340" duration="6875000" />
+      <workItem from="1648739388111" duration="13731000" />
+      <workItem from="1648780671901" duration="39158000" />
+      <workItem from="1648955218649" duration="17796000" />
+      <workItem from="1649054148735" duration="33392000" />
+      <workItem from="1649205521601" duration="58516000" />
+      <workItem from="1649381615794" duration="96669000" />
+      <workItem from="1649721748744" duration="6117000" />
+      <workItem from="1649727924782" duration="10423000" />
+      <workItem from="1649741339755" duration="11127000" />
+      <workItem from="1649754758954" duration="64474000" />
+      <workItem from="1649987359695" duration="606000" />
+      <workItem from="1649988001898" duration="379000" />
+      <workItem from="1649988403792" duration="21390000" />
+      <workItem from="1650070552288" duration="30000" />
+      <workItem from="1650070605598" duration="6605000" />
+      <workItem from="1650158814387" duration="73438000" />
+      <workItem from="1650343637334" duration="2751000" />
+      <workItem from="1650346446149" duration="20466000" />
+      <workItem from="1650426293819" duration="57000" />
+      <workItem from="1650426374837" duration="14280000" />
+      <workItem from="1650441666648" duration="10564000" />
+      <workItem from="1650454979307" duration="15107000" />
+      <workItem from="1650501684525" duration="5263000" />
+      <workItem from="1650506975015" duration="17628000" />
+      <workItem from="1650595316627" duration="22195000" />
+      <workItem from="1650677961483" duration="8460000" />
+      <workItem from="1650687062293" duration="106000" />
+      <workItem from="1650687210920" duration="10481000" />
+      <workItem from="1650698949706" duration="83000" />
+      <workItem from="1650699164016" duration="852000" />
+      <workItem from="1650700036258" duration="823000" />
+      <workItem from="1650700940261" duration="1261000" />
+      <workItem from="1650702770232" duration="945000" />
+      <workItem from="1650761510305" duration="2341000" />
+      <workItem from="1650801169872" duration="30559000" />
+      <workItem from="1650936625998" duration="539000" />
+      <workItem from="1650961036702" duration="12520000" />
+      <workItem from="1650977625714" duration="2901000" />
+      <workItem from="1651140587941" duration="27775000" />
+      <workItem from="1651225935741" duration="903000" />
+      <workItem from="1651290676418" duration="34000" />
+      <workItem from="1652059744358" duration="14539000" />
+      <workItem from="1652117858033" duration="1537000" />
+      <workItem from="1652171638000" duration="19000" />
+      <workItem from="1652408437595" duration="2102000" />
+      <workItem from="1653269134140" duration="762000" />
+      <workItem from="1660786356719" duration="6110000" />
+      <workItem from="1661931977965" duration="2106000" />
+      <workItem from="1661934677680" duration="754000" />
+      <workItem from="1661935571929" duration="11380000" />
+      <workItem from="1662002905230" duration="10956000" />
+      <workItem from="1662051255612" duration="3265000" />
+      <workItem from="1662079809435" duration="11701000" />
+      <workItem from="1662092784160" duration="8424000" />
+      <workItem from="1662162989342" duration="90000" />
+      <workItem from="1662163086152" duration="2516000" />
+      <workItem from="1662200633186" duration="18623000" />
+      <workItem from="1662219477396" duration="144000" />
+      <workItem from="1662250868379" duration="4278000" />
+      <workItem from="1662256761286" duration="32000" />
+      <workItem from="1662256851925" duration="904000" />
+      <workItem from="1662257784876" duration="1387000" />
+      <workItem from="1662259245922" duration="1124000" />
+      <workItem from="1662260453142" duration="19576000" />
+      <workItem from="1662337625918" duration="36834000" />
+      <workItem from="1662390814811" duration="4041000" />
+      <workItem from="1662394898693" duration="77000" />
+      <workItem from="1662394981229" duration="53000" />
+      <workItem from="1662395061795" duration="194000" />
+      <workItem from="1662395276556" duration="15000" />
+    </task>
+    <task id="LOCAL-00001" summary="arbitration process">
+      <created>1585414857113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585414857113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="transaction debug">
+      <created>1586274904344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586274904344</updated>
+    </task>
+    <task id="LOCAL-00003" summary="wx third party login debug">
+      <created>1586709710061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586709710061</updated>
+    </task>
+    <task id="LOCAL-00004" summary="wx third party login debug">
+      <created>1587884834767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587884834767</updated>
+    </task>
+    <task id="LOCAL-00005" summary="wx third party login debug">
+      <created>1587884936208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587884936208</updated>
+    </task>
+    <task id="LOCAL-00006" summary="wx third party login debug">
+      <created>1587985951202</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587985951202</updated>
+    </task>
+    <task id="LOCAL-00007" summary="post commodity 1-2">
+      <created>1588000310244</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588000310244</updated>
+    </task>
+    <task id="LOCAL-00008" summary="post commodity 1-2">
+      <created>1588092622273</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588092622273</updated>
+    </task>
+    <task id="LOCAL-00009" summary="post commodity 1-2-3-4">
+      <created>1588273366576</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588273366576</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commodity purchase">
+      <created>1588608167504</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588608167504</updated>
+    </task>
+    <task id="LOCAL-00011" summary="multi-wholesale implement">
+      <created>1592728735034</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592728735034</updated>
+    </task>
+    <task id="LOCAL-00012" summary="debug HomeWorkFragment and HomeOutFragment and HomeInFragment">
+      <created>1593355654614</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593355654614</updated>
+    </task>
+    <task id="LOCAL-00013" summary="homeWorkFragment editor button and search button debug">
+      <created>1593447868029</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1593447868029</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commodity call/browse/chat record">
+      <created>1600334609186</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600334609186</updated>
+    </task>
+    <task id="LOCAL-00015" summary="transaction pay / pending pay debug">
+      <created>1606121676349</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606121676349</updated>
+    </task>
+    <task id="LOCAL-00016" summary="myMallTransactionFragment debug">
+      <created>1606369998871</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606369998871</updated>
+    </task>
+    <task id="LOCAL-00017" summary="companyInfoEditActivity">
+      <created>1606888946927</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606888946928</updated>
+    </task>
+    <task id="LOCAL-00018" summary="companyInfoListActivity&#10;object.getData.getList.size  debug">
+      <created>1607019176055</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607019176055</updated>
+    </task>
+    <task id="LOCAL-00019" summary="companyInfo implement done">
+      <created>1607155262025</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607155262026</updated>
+    </task>
+    <task id="LOCAL-00020" summary="version 83 done">
+      <created>1607527370450</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607527370450</updated>
+    </task>
+    <task id="LOCAL-00021" summary="before new jiguang">
+      <created>1608004308740</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1608004308740</updated>
+    </task>
+    <task id="LOCAL-00022" summary="jiguang implement done">
+      <created>1608121262717</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1608121262717</updated>
+    </task>
+    <task id="LOCAL-00023" summary="test notify logic&#10;从1.0 升级 到 3.0">
+      <created>1608487846239</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1608487846239</updated>
+    </task>
+    <task id="LOCAL-00024" summary="修改了通知的逻辑，基本完成">
+      <created>1608545321531</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1608545321531</updated>
+    </task>
+    <task id="LOCAL-00025" summary="com.heytap.msp debug">
+      <created>1608726941867</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1608726941867</updated>
+    </task>
+    <task id="LOCAL-00026" summary="search and HomeWorkFragment debug&#10;commodity share">
+      <created>1610297799805</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1610297799806</updated>
+    </task>
+    <task id="LOCAL-00027" summary="homeOneFragment BDLocation&#10;search&#10;switch to new common api module">
+      <created>1612375983915</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1612375983915</updated>
+    </task>
+    <task id="LOCAL-00028" summary="task work to Contract implement&#10;release Work detail re-work&#10;MyTransactionHuoActivity &#10;MyTransactionCjActivity">
+      <created>1613638617476</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1613638617476</updated>
+    </task>
+    <task id="LOCAL-00029" summary="86 version released">
+      <created>1614227762307</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1614227762307</updated>
+    </task>
+    <task id="LOCAL-00030" summary="87 version released&#10;small bug for collect mark">
+      <created>1616083086551</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1616083086552</updated>
+    </task>
+    <task id="LOCAL-00031" summary="gift store implement">
+      <created>1617543436213</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1617543436213</updated>
+    </task>
+    <task id="LOCAL-00032" summary="v 2.4.0 release">
+      <created>1618042837057</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1618042837057</updated>
+    </task>
+    <task id="LOCAL-00033" summary="金豆比例 代码修正">
+      <created>1629926807422</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1629926807422</updated>
+    </task>
+    <task id="LOCAL-00034" summary="89 version done">
+      <created>1631902305756</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1631902305756</updated>
+    </task>
+    <task id="LOCAL-00035" summary="before chat commodity">
+      <created>1646394203352</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1646394203352</updated>
+    </task>
+    <task id="LOCAL-00036" summary="before chat commodity done">
+      <created>1646533581163</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1646533581163</updated>
+    </task>
+    <task id="LOCAL-00037" summary="androidx&#10;umeng upgrade">
+      <created>1648139488263</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1648139488263</updated>
+    </task>
+    <task id="LOCAL-00038" summary="huanxin&#10;jiguang">
+      <created>1650697530574</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1650697530574</updated>
+    </task>
+    <task id="LOCAL-00039" summary="界面适配 全面屏">
+      <created>1651171125799</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1651171125800</updated>
+    </task>
+    <task id="LOCAL-00040" summary="second">
+      <created>1662395250948</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1662395250948</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="904700000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49794802" visible="true" weight="0.1705757" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" sideWeight="0.50067115" side_tool="true" weight="0.12526652" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502052" side_tool="true" weight="0.19669509" />
+      <window_info id="Captures" order="7" side_tool="true" />
+      <window_info id="UI Designer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.6529851" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25612473" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" weight="0.32962137" />
+      <window_info anchor="bottom" id="Docker" order="8" weight="0.32962137" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.16311301" side_tool="true" weight="0.30734965" />
+      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.8176972" weight="0.16258352" />
+      <window_info anchor="bottom" id="Logcat" order="11" sideWeight="0.836887" weight="0.2962138" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32962137" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.06769723" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" sideWeight="0.5292969" side_tool="true" weight="0.09594883" />
+      <window_info anchor="right" id="Gradle" order="6" sideWeight="0.47070312" visible="true" weight="0.09594883" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Preview" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49794802" visible="true" weight="0.2238806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" sideWeight="0.50067115" side_tool="true" weight="0.12526652" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502052" side_tool="true" weight="0.19669509" />
+      <window_info id="Captures" order="7" side_tool="true" />
+      <window_info id="UI Designer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25612473" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.18656716" side_tool="true" weight="0.2594655" />
+      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.8134328" weight="0.24276169" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="11" sideWeight="0.7292111" visible="true" weight="0.06458797" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32962137" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.06769723" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" sideWeight="0.5285714" side_tool="true" visible="true" weight="0.09594883" />
+      <window_info anchor="right" id="Gradle" order="6" sideWeight="0.47199047" visible="true" weight="0.09594883" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Preview" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="myMallTransactionFragment debug" />
+    <MESSAGE value="companyInfoEditActivity" />
+    <MESSAGE value="companyInfoListActivity&#10;object.getData.getList.size  debug" />
+    <MESSAGE value="companyInfo implement done" />
+    <MESSAGE value="version 83 done" />
+    <MESSAGE value="before new jiguang" />
+    <MESSAGE value="jiguang implement done" />
+    <MESSAGE value="test notify logic&#10;从1.0 升级 到 3.0" />
+    <MESSAGE value="修改了通知的逻辑，基本完成" />
+    <MESSAGE value="com.heytap.msp debug" />
+    <MESSAGE value="search and HomeWorkFragment debug&#10;commodity share" />
+    <MESSAGE value="homeOneFragment BDLocation&#10;search&#10;switch to new common api module" />
+    <MESSAGE value="task work to Contract implement&#10;release Work detail re-work&#10;MyTransactionHuoActivity &#10;MyTransactionCjActivity" />
+    <MESSAGE value="86 version released" />
+    <MESSAGE value="87 version released&#10;small bug for collect mark" />
+    <MESSAGE value="gift store implement" />
+    <MESSAGE value="v 2.4.0 release" />
+    <MESSAGE value="金豆比例 代码修正" />
+    <MESSAGE value="89 version done" />
+    <MESSAGE value="before chat commodity" />
+    <MESSAGE value="before chat commodity done" />
+    <MESSAGE value="androidx&#10;umeng upgrade" />
+    <MESSAGE value="huanxin&#10;jiguang" />
+    <MESSAGE value="界面适配 全面屏" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easeui/src/main/java/com/hyphenate/easeui/modules/chat/presenter/EaseHandleMessagePresenterImpl.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easeui/src/main/java/com/hyphenate/easeui/modules/chat/EaseChatFragment.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/jpush/MyJPushMessageReceiver.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/jpush/MyJPushMessageReceiver.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>UserManager.getInstance()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>privilege.isPostFree()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>privilege.isPurchaseWholesaleOneFree()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>MD5Util.md5Encode(&quot;FREE_PURCHASE_WHOLESALE_ONE_&quot; + userId)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>MD5Util.md5Encode(&quot;FREE_PURCHASE_WHOLESALE_ONE_&quot; + userId))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>PreferencesUtil.getDataString(Constant.PRIVILEGE_PURCHASE_WHOLESALE_ONE).equals(MD5Util.md5Encode(&quot;FREE_PURCHASE_WHOLESALE_ONE_&quot; + userId))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>PreferencesUtil.getDataString(Constant.PRIVILEGE_PURCHASE_WHOLESALE_ONE)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>commodityResponse.getSaleType()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/model/CommodityCallModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/CommodityMarked.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/Share.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/WxShareConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1307#1308#0" expanded="true" />
+            <element signature="e#1355#1356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/CommodityShareContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/model/CommodityShareModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/model/ShareModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/SharePresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/contract/ShareContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/contract/CommodityShareContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/CommoditySharePresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="39" column="80" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/res/layout/layout_pop_details.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/http/ApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33330">
+          <caret line="1530" column="7" selection-start-line="1530" selection-start-column="7" selection-end-line="1530" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/http/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/res/layout/fragment_view_pager_details_commodity.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/res/layout/activity_view_pager_details.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/res/layout/layout_details_bottom.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/res/layout/activity_details_commodity.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/base/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="193" column="16" selection-start-line="193" selection-start-column="16" selection-end-line="193" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/HomeTwoPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-386">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/OrderByNoPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/ViewPagerDetailsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="220" column="18" selection-start-line="220" selection-start-column="16" selection-end-line="220" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/DetailsHuoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3314">
+          <caret line="530" selection-start-line="530" selection-end-line="530" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/Commodity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/CommodityResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/ViewPagerDetailsCommodityFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1242">
+          <caret line="673" column="78" selection-start-line="673" selection-start-column="78" selection-end-line="673" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/DetailsCommodityActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11099">
+          <caret line="779" column="91" selection-start-line="779" selection-start-column="91" selection-end-line="779" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/HomeOutFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="137" column="49" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/utils/ListUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/res/layout/layout_custom_marquee_txt.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e25b4a006d874a1be70c6a0270c05699/jars/classes.jar!/android/support/v7/widget/RecyclerView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="988" column="16" selection-start-line="988" selection-start-column="16" selection-end-line="988" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/utils/marquee/MarqueeView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#2040#2585#0" expanded="true" />
+            <element signature="e#2584#2585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/HomeOneFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3005">
+          <caret line="733" column="40" lean-forward="true" selection-start-line="733" selection-start-column="40" selection-end-line="733" selection-end-column="40" />
+          <folding>
+            <element signature="e#8107#8108#0" expanded="true" />
+            <element signature="e#8157#8158#0" expanded="true" />
+            <element signature="class#9702:10051" />
+            <element signature="e#11902#23104#0" />
+            <element signature="e#22427#22461#0" expanded="true" />
+            <element signature="e#22757#23033#0" expanded="true" />
+            <element signature="e#23032#23033#0" expanded="true" />
+            <element signature="e#23110#23802#0" />
+            <element signature="e#29274#29475#0" expanded="true" />
+            <element signature="e#29474#29475#0" expanded="true" />
+            <element signature="e#31182#31334#0" expanded="true" />
+            <element signature="e#31333#31334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/ViewPagerDetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="90" column="34" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="34" />
+          <folding>
+            <element signature="e#4232#4411#0" expanded="true" />
+            <element signature="e#4410#4411#0" expanded="true" />
+            <element signature="method#initViews#0;class#ViewPagerDetailsActivity#0" />
+            <element signature="e#11751#12122#0" expanded="true" />
+            <element signature="e#12121#12122#0" expanded="true" />
+            <element signature="e#12234#12605#0" expanded="true" />
+            <element signature="e#12604#12605#0" expanded="true" />
+            <element signature="e#13911#14639#0" expanded="true" />
+            <element signature="e#14638#14639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/ViewPagerCommodityDetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="101" selection-start-line="101" selection-end-line="101" selection-end-column="23" />
+          <folding>
+            <element signature="e#4200#4400#0" expanded="true" />
+            <element signature="e#4399#4400#0" expanded="true" />
+            <element signature="method#initViews#0;class#ViewPagerCommodityDetailsActivity#0" />
+            <element signature="e#13038#13806#0" expanded="true" />
+            <element signature="e#13805#13806#0" expanded="true" />
+            <element signature="e#13949#13950#0" expanded="true" />
+            <element signature="e#14029#14030#0" expanded="true" />
+            <element signature="e#14131#14132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/HomeMallFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="132" column="45" lean-forward="true" selection-start-line="132" selection-start-column="45" selection-end-line="132" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/SearchCommodityResultActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="119" column="82" lean-forward="true" selection-start-line="119" selection-start-column="82" selection-end-line="119" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/SearchResult2Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+          <folding>
+            <element signature="e#1281#1312#0" expanded="true" />
+            <element signature="e#3879#4674#0" expanded="true" />
+            <element signature="e#4673#4674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/SearchResultActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="169" column="42" lean-forward="true" selection-start-line="169" selection-start-column="42" selection-end-line="169" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/SearchHuoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2684">
+          <caret line="161" column="38" lean-forward="true" selection-start-line="161" selection-start-column="38" selection-end-line="161" selection-end-column="38" />
+          <folding>
+            <element signature="e#1336#1367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/SearchCjFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="85" column="75" selection-start-line="85" selection-start-column="75" selection-end-line="85" selection-end-column="75" />
+          <folding>
+            <element signature="e#1341#1372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/ViewPagerDetailsCjActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4752">
+          <caret line="264" lean-forward="true" selection-start-line="264" selection-end-line="264" />
+          <folding>
+            <element signature="e#4417#4594#0" expanded="true" />
+            <element signature="e#4593#4594#0" expanded="true" />
+            <element signature="e#8925#9298#0" expanded="true" />
+            <element signature="e#9297#9298#0" expanded="true" />
+            <element signature="e#9423#9796#0" expanded="true" />
+            <element signature="e#9795#9796#0" expanded="true" />
+            <element signature="e#9984#9985#0" expanded="true" />
+            <element signature="e#10064#10065#0" expanded="true" />
+            <element signature="e#10166#10167#0" expanded="true" />
+            <element signature="e#11095#11802#0" expanded="true" />
+            <element signature="e#11801#11802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/MyCollectHuoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding>
+            <element signature="e#1125#1156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/activity/MyCollectActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/HuoBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/HuoListBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/presenter/MyScPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="113" column="58" lean-forward="true" selection-start-line="113" selection-start-column="58" selection-end-line="113" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/adapter/ScCjAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/res/layout/item_jd_cj.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunjiagong/src/main/java/com/niule/yunjiagong/mvp/ui/fragment/MyCollectCjFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="49" column="33" lean-forward="true" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>imagetrans</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: __local_aars__:C.\projects\android\frog\easeui\libs\BaiduLBS_Android.jar:unspecified@jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

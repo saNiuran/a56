@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:background="@drawable/ll_selector_btn"
+    android:orientation="vertical">
+
+
+    <com.zhy.autolayout.AutoRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="26px">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/ic_yichang" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="50px"
+            android:drawableRight="@mipmap/ic_jiantou1"
+            android:text="登录异常"
+            android:textColor="@color/color_post_text"
+            android:textSize="30px" />
+    </com.zhy.autolayout.AutoRelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80px"
+        android:layout_marginTop="6px"
+        android:drawableRight="@mipmap/ic_jiantou1"
+        android:text="无法登录，提示账户异常？"
+        android:textColor="@color/color_post_hint"
+        android:textSize="26px" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20px"
+        android:layout_marginLeft="80px"
+        android:layout_marginTop="20px"
+        android:drawableRight="@mipmap/ic_jiantou1"
+        android:text="无法获取验证码？"
+        android:textColor="@color/color_post_hint"
+        android:textSize="26px" />
+</com.zhy.autolayout.AutoLinearLayout>

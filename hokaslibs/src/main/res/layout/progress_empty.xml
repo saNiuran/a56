@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/emptyStateRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/emptyViewRelativeLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:padding="@dimen/dp_5"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:id="@+id/emptyStateImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            tools:background="#000000"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/emptyStateTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/dp_13"
+            android:textSize="@dimen/sp_14"
+            android:gravity="center"
+            android:lineSpacingExtra="@dimen/dp_3"
+            android:textColor="#999999"
+            tools:text="抱歉，暂无相关信息" />
+
+        <TextView
+            android:id="@+id/emptyStateContentTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/dp_8"
+            android:gravity="center"
+            android:textSize="@dimen/sp_13"
+            android:textColor="#999999"
+            android:lineSpacingExtra="@dimen/dp_3"
+            tools:text="@string/progressActivityEmptyContentPlaceholder" />
+
+    </LinearLayout>
+
+</RelativeLayout>

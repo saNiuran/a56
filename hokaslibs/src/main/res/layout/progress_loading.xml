@@ -1,0 +1,82 @@
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loadingStateRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="300dp">-->
+
+    <!--<ProgressBar-->
+    <!--android:id="@+id/progress1"-->
+    <!--android:layout_width="120dp"-->
+    <!--android:layout_height="120dp"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:layout_marginTop="0dp"-->
+    <!--android:indeterminateDrawable="@drawable/progress_gear_fu" />-->
+
+    <!--<ProgressBar-->
+    <!--android:id="@+id/progress2"-->
+    <!--android:layout_width="80dp"-->
+    <!--android:layout_height="80dp"-->
+    <!--android:layout_below="@+id/progress1"-->
+    <!--android:layout_marginRight="-30dp"-->
+    <!--android:layout_marginTop="-30dp"-->
+    <!--android:layout_toLeftOf="@+id/progress1"-->
+    <!--android:layout_toStartOf="@+id/progress1"-->
+    <!--android:indeterminateDrawable="@drawable/progress_gear_fu" />-->
+
+    <!--<ProgressBar-->
+    <!--android:id="@+id/progress3"-->
+    <!--android:layout_width="50dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--android:layout_below="@+id/progress1"-->
+    <!--android:layout_marginTop="-20dp"-->
+    <!--android:layout_toEndOf="@+id/progress1"-->
+    <!--android:layout_toRightOf="@+id/progress1"-->
+    <!--android:indeterminateDrawable="@drawable/progress_gear_fu" />-->
+
+    <!--<ProgressBar-->
+    <!--android:id="@+id/progress4"-->
+    <!--android:layout_width="60dp"-->
+    <!--android:layout_height="60dp"-->
+    <!--android:layout_alignLeft="@+id/progress1"-->
+    <!--android:layout_alignStart="@+id/progress1"-->
+    <!--android:layout_below="@+id/progress2"-->
+    <!--android:indeterminateDrawable="@drawable/progress_gear" />-->
+
+    <!--<ProgressBar-->
+    <!--android:id="@+id/loadingStateProgressBar"-->
+    <!--android:layout_width="100dp"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:layout_below="@+id/progress4"-->
+    <!--android:layout_marginLeft="-20dp"-->
+    <!--android:layout_toEndOf="@+id/progress4"-->
+    <!--android:layout_toRightOf="@+id/progress4"-->
+    <!--android:indeterminateDrawable="@drawable/progress_gear_fu" />-->
+    <!--</RelativeLayout>-->
+
+    <ProgressBar
+        android:id="@+id/loadingStateProgressBar"
+        android:layout_width="@dimen/dp_87"
+        android:layout_height="@dimen/dp_82"
+        android:layout_centerHorizontal="true"
+        android:indeterminateDrawable="@drawable/animation_list_load_question" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loadingStateProgressBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="6dp"
+        android:text="正在努力加载，请稍后..."
+        android:textColor="#999999" />
+    <!--<ImageView-->
+    <!--android:id="@+id/ivLoading"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_marginLeft="30dp"-->
+    <!--android:layout_height="wrap_content" />-->
+</com.zhy.autolayout.AutoRelativeLayout>

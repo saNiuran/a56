@@ -1,0 +1,3 @@
+include ':zxinglib', ':xrecyclerview', ':exceptionmanager', ':hokaslibs',
+        ':imageSelector', ':rxerrorhandler', ':filter-lib', ':FlycoDialog_Lib',
+        ':calculator', ':imagetrans', ':BigImageLibrary', ':jiguang'

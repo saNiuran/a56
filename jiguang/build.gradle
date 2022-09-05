@@ -1,0 +1,75 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.huawei.agconnect'
+
+android {
+    compileSdkVersion rootProject.ext.android["compileSdkVersion"]
+//    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+
+        consumerProguardFiles 'consumer-rules.pro'
+
+        manifestPlaceholders = [
+                JPUSH_PKGNAME : "com.niule.a56.calculator",
+                JPUSH_APPKEY  : "abf5da087749ab2f9bdb7e53",//值来自开发者平台取得的AppKey
+                JPUSH_CHANNEL : "developer-default",
+
+                //xiaomi_config_start
+                XIAOMI_APPID  : "MI-2882303761517693468",
+                XIAOMI_APPKEY : "MI-5521769397468",
+                //xiaomi_config_end
+                //oppo_config_start
+                OPPO_APPKEY   : "OP-3nRvla5S7Qkgwwk48sGwsGogg",
+                OPPO_APPID    : "OP-3623605",
+                OPPO_APPSECRET: "OP-DA8136a528b7c27eb5fEa042E641A469",
+                //oppo_config_end
+                //vivo_config_start
+                VIVO_APPKEY   : "4debe6733dcc2be05c9728e03b121fbd",
+                VIVO_APPID    : "100174219",
+                //vivo_config_end
+        ]
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+}
+
+dependencies {
+    api fileTree(dir: 'libs', include: ['*.jar'])
+    compileOnly fileTree(dir: 'libs', include: ["*.aar"])
+
+//    compile 'cn.jiguang.sdk:jpush:4.6.3'  // 此处以JPush 4.6.3 版本为例。
+//    compile 'cn.jiguang.sdk:jcore:3.2.4'  // 此处以JCore 3.2.4 版本为例。
+
+    //huawei_dependencies_start
+    //华为请按照厂商文档配置主 gradle 华为镜像依赖和添加 agconnect-services.json 后再打开此依赖
+    implementation 'com.huawei.hms:push:5.3.0.301'
+    //huawei_dependencies_end
+
+    //oppo_dependencies_start
+//    implementation files('libs/com.heytap.msp-push-3.0.0.aar')
+    //oppo_dependencies_end
+//    implementation files('libs/push_sdk_v3.0.0.4_484.aar')
+}
+

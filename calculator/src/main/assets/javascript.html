@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Carson</title>
+    <script>
+
+
+         function callAndroid(){
+        // 由于对象映射，所以调用test对象等于调用Android映射的对象
+        var title = "跨境计算器分享";
+			var descr = "跨境计算器，由上海牛然软件技术有限公司于2017年打造，致力于为小微加工企业提供方便快捷的加工信息服务，以先进的移动互联网技术，为用户持续创造价值，努力帮助小微企业成功。跨境计算器，始终坚持以市场为导向，以用户为中心，诚信为本，开拓创新，不断发展壮大。以优良的信誉、优质的产品、体贴的服务，深受用户喜爱。"
+			var urls = "http://www.yunjg.net";
+			var img = "http://img.yunjg.net/icon/spin.png";
+            test.shareSomeThing(title,descr,urls,img);
+         }
+      </script>
+</head>
+<body>
+
+<button type="button" id="button1" onclick="callAndroid()">点击按钮则调用callAndroid函数</button>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="26px"
+        android:text="无法登录，提示账户异常？"
+        android:textColor="@color/color_post_text"
+        android:textSize="26px" />
+
+    <View style="@style/view_line_1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="26px"
+        android:text="无法获取验证码？"
+        android:textSize="22px" />
+</com.zhy.autolayout.AutoLinearLayout>
