@@ -31,7 +31,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f36a5c38-ab45-4f59-bbd0-ab138eafdde7" name="Default Changelist" comment="second" />
+    <list default="true" id="f36a5c38-ab45-4f59-bbd0-ab138eafdde7" name="Default Changelist" comment="second">
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/bean/ApkVersionRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/bean/Enquiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/bean/EnquiryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/bean/GeneralMemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/bean/QuestionTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/bean/SalesLead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/bean/SalesLeadRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/bean/UserAn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/contract/EnquiryContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/contract/SalesLeadContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/model/EnquiryModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/model/SalesLeadModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/presenter/EnquiryPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/presenter/SalesLeadPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/ui/activity/EnquiryActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/ui/activity/ImgSelActivity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/ui/activity/SalesLeadActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/ui/adapter/MemoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/res/drawable/sp_input_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/res/layout/activity_enquiry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/res/layout/activity_img_sel2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/res/layout/activity_saleslead.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/res/layout/item_memo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/res/mipmap-hdpi/ic_dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/base/BaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/base/BaseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/base/XApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/base/XApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/http/ApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/http/ApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/contract/PriceContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/contract/PriceContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/contract/VersionContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/contract/VersionContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/model/PriceModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/model/PriceModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/model/VersionModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/model/VersionModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/presenter/PricePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/presenter/PricePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/presenter/VersionPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/presenter/VersionPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/ui/activity/ResultActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/mvp/ui/activity/ResultActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/utils/service/DownLoadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/utils/service/DownLoadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/utils/service/UpdateService.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/utils/service/UpdateService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/utils/update/manager/AppVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/utils/update/manager/ApkVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/res/drawable/sp_cell_border_white_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/res/drawable/sp_cell_border_white_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/res/layout/activity_freight.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/res/layout/activity_freight.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/res/layout/activity_result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/res/layout/activity_result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/res/mipmap-hdpi/ic_right_jiantou.png" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/res/mipmap-hdpi/ic_right_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/res/mipmap-xhdpi/ic_right_jiantou.png" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/res/mipmap-xhdpi/ic_right_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/res/mipmap-xxhdpi/ic_right_jiantou.png" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/res/mipmap-xxhdpi/ic_right_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/res/mipmap-xxxhdpi/ic_right_jiantou.png" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/res/mipmap-xxxhdpi/ic_right_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/config.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hokaslibs/src/main/java/com/hokaslibs/mvp/bean/ImagePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/com/niule/a56/calculator/bean/ImagePath.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -769,6 +820,8 @@
     <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/androidx/swiperefreshlayout/widget/SwipeRefreshLayout.java_SELECTED" value="SwipeRefreshLayout" />
     <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/androidx/swiperefreshlayout/widget/SwipeRefreshLayout.java_SwipeRefreshLayout_DIMENSIONS" value="1080&#10;1920" />
     <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/ViewPager.java_SELECTED" value="ViewPager" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/com.github.gzu-liyujiang.AndroidPicker/WheelPicker/4.1.9/8b90d03b8ac6409446ccdc860b19c1927d094572/WheelPicker-4.1.9-sources.jar!/com/github/gzuliyujiang/wheelpicker/widget/OptionWheelLayout.java_SELECTED" value="OptionWheelLayout" />
+    <property name="android-custom-viewC:/Users/Rich/.gradle/caches/modules-2/files-2.1/com.github.gzu-liyujiang.AndroidPicker/WheelView/4.1.9/b58d09b9695f4aaaef348f4a1ded9fb688bfb8cd/WheelView-4.1.9-sources.jar!/com/github/gzuliyujiang/wheelview/widget/WheelView.java_SELECTED" value="WheelView" />
     <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java_SELECTED" value="View" />
     <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java_View_DIMENSIONS" value="1080&#10;1920" />
     <property name="android-custom-viewC:/Users/Rich/AppData/Local/Android/Sdk/sources/android-28/android/widget/CompoundButton.java_CompoundButton_DIMENSIONS" value="1080&#10;1920" />
@@ -879,7 +932,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="device.picker.selection" value="seller" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/calculator/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/calculator/src/main/res/layout" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -899,8 +952,8 @@
       <recent name="com.niule.yunjiagong.mvp.ui.activity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\project\56\android\calculator\src\main\res\drawable" />
       <recent name="C:\project\56\android\calculator\src\main\res\layout" />
+      <recent name="C:\project\56\android\calculator\src\main\res\drawable" />
       <recent name="C:\project\56\android\calculator\src\main\res\mipmap-hdpi" />
       <recent name="C:\project\56\android\hokaslibs\src\main\res\drawable" />
       <recent name="C:\project\56\android\calculator\src\main\java\com\niule\a56\calculator\mvp\ui\fragment" />
@@ -916,11 +969,11 @@
       <recent name="com.hokaslibs.mvp.bean" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.niule.a56.calculator.mvp.ui.adapter" />
-      <recent name="com.niule.a56.calculator.bean" />
       <recent name="com.niule.a56.calculator.mvp.model" />
       <recent name="com.niule.a56.calculator.mvp.contract" />
       <recent name="com.niule.a56.calculator.mvp.presenter" />
+      <recent name="com.niule.a56.calculator.mvp.ui.activity" />
+      <recent name="com.niule.a56.calculator.mvp.ui.adapter" />
     </key>
   </component>
   <component name="RunManager">
@@ -1425,7 +1478,19 @@
       <workItem from="1662394898693" duration="77000" />
       <workItem from="1662394981229" duration="53000" />
       <workItem from="1662395061795" duration="194000" />
-      <workItem from="1662395276556" duration="15000" />
+      <workItem from="1662395276556" duration="211000" />
+      <workItem from="1662430989735" duration="8507000" />
+      <workItem from="1662445262890" duration="773000" />
+      <workItem from="1662514757531" duration="197000" />
+      <workItem from="1662515574380" duration="3327000" />
+      <workItem from="1662520379285" duration="8325000" />
+      <workItem from="1662535303445" duration="138000" />
+      <workItem from="1662535465708" duration="239000" />
+      <workItem from="1662535880528" duration="86000" />
+      <workItem from="1662536285983" duration="4489000" />
+      <workItem from="1662540875774" duration="1231000" />
+      <workItem from="1662542407406" duration="665000" />
+      <workItem from="1662543279996" duration="1561000" />
     </task>
     <task id="LOCAL-00001" summary="arbitration process">
       <created>1585414857113</created>

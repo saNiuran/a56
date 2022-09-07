@@ -41,7 +41,7 @@ import okhttp3.Response;
 
 
 public class BaseApplication extends XApplication implements Thread.UncaughtExceptionHandler {
-    public static final String TAG = "BaseApplication";
+//    public static final String TAG = "BaseApplication";
 
     private static BaseApplication instance;
 
@@ -180,8 +180,8 @@ public class BaseApplication extends XApplication implements Thread.UncaughtExce
         public Request onBeforeRequest(Request request, Interceptor.Chain chain) {
             return request.newBuilder()
                     .header("appVersion", String.valueOf(DeviceUtils.getVersionCode(BaseApplication.getInstance())))
-                    .header("deviceInfo", com.blankj.utilcode.util.DeviceUtils.getAndroidID())
-                    .header("deviceType", "android")
+                    .header("deviceId", com.blankj.utilcode.util.DeviceUtils.getAndroidID())
+                    .header("lord","3")  //表示安卓端
                     .build();
         }
 

@@ -62,6 +62,7 @@
         <entry key="..\:/project/56/android/calculator/src/main/res/drawable/sp_divider_recycler_gray.xml" value="0.3572916666666667" />
         <entry key="..\:/project/56/android/calculator/src/main/res/drawable/sp_et_post_background.xml" value="0.3572916666666667" />
         <entry key="..\:/project/56/android/calculator/src/main/res/drawable/sp_history.xml" value="0.3572916666666667" />
+        <entry key="..\:/project/56/android/calculator/src/main/res/drawable/sp_input_box.xml" value="0.3572916666666667" />
         <entry key="..\:/project/56/android/calculator/src/main/res/drawable/sp_item_post_51.xml" value="0.3572916666666667" />
         <entry key="..\:/project/56/android/calculator/src/main/res/drawable/sp_item_post_51_radius_15.xml" value="0.3572916666666667" />
         <entry key="..\:/project/56/android/calculator/src/main/res/drawable/sp_item_post_51_radius_8.xml" value="0.3572916666666667" />
@@ -92,6 +93,7 @@
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_details_notify.xml" value="0.3411458333333333" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_details_quote.xml" value="0.3411458333333333" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_dispute_list.xml" value="0.3411458333333333" />
+        <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_enquiry.xml" value="0.32708333333333334" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_enterprise_search_result.xml" value="0.3411458333333333" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_evalute.xml" value="0.3411458333333333" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_extension.xml" value="0.3411458333333333" />
@@ -123,7 +125,8 @@
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_post_huo.xml" value="0.32708333333333334" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_recharge_margin.xml" value="0.3411458333333333" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_record.xml" value="0.32065217391304346" />
-        <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_result.xml" value="0.1" />
+        <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_result.xml" value="0.3333333333333333" />
+        <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_saleslead.xml" value="0.3333333333333333" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_sign_in.xml" value="0.3411458333333333" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_splash.xml" value="0.3333333333333333" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/activity_subscription_manager.xml" value="0.3411458333333333" />
@@ -195,6 +198,7 @@
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/item_mall_transaction_content.xml" value="0.32708333333333334" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/item_mall_transaction_with_delete.xml" value="0.32708333333333334" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/item_margin.xml" value="0.32708333333333334" />
+        <entry key="..\:/project/56/android/calculator/src/main/res/layout/item_memo.xml" value="0.32708333333333334" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/item_my_cj.xml" value="0.32708333333333334" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/item_my_commodity.xml" value="0.3411458333333333" />
         <entry key="..\:/project/56/android/calculator/src/main/res/layout/item_my_complaint.xml" value="0.32708333333333334" />

@@ -16,11 +16,12 @@ import com.niule.a56.calculator.base.XApplication;
 import com.niule.a56.calculator.mvp.contract.VersionContract;
 import com.niule.a56.calculator.mvp.presenter.VersionPresenter;
 import com.hokaslibs.utils.HokasUtils;
+import com.niule.a56.calculator.mvp.ui.activity.EnquiryActivity;
 import com.niule.a56.calculator.mvp.ui.activity.FreightActivity;
-import com.niule.a56.calculator.mvp.ui.activity.ResultActivity;
+import com.niule.a56.calculator.mvp.ui.activity.SalesLeadActivity;
 import com.niule.a56.calculator.utils.PreferencesUtil;
 import com.niule.a56.calculator.utils.UiUtils;
-import com.niule.a56.calculator.utils.update.manager.AppVersion;
+import com.niule.a56.calculator.utils.update.manager.ApkVersion;
 import com.niule.a56.calculator.utils.update.utils.DeviceUtils;
 import com.niule.a56.calculator.base.BaseActivity;
 import com.niule.a56.calculator.bean.NotifyExtras;
@@ -31,7 +32,7 @@ import com.niule.a56.calculator.utils.service.UpdateService;
 public class MainActivity extends BaseActivity implements VersionContract.View, View.OnClickListener {
 
     private TextView tvStart;
-    private AppVersion appVersion;
+    private ApkVersion apkVersion;
 
     private NotifyExtras notifyExtras;
 
@@ -40,11 +41,6 @@ public class MainActivity extends BaseActivity implements VersionContract.View, 
     public static final String MESSAGE_OPENED_ACTION = "MESSAGE_OPENED_ACTION";
     public static final String KEY_MESSAGE = "message";
     public static final String KEY_EXTRAS = "extras";
-
-    public static void startAction(Context context) {
-        Intent intent = new Intent(context, MainActivity.class);
-        context.startActivity(intent);
-    }
 
     @Override
     protected int getLayoutResource() {
@@ -57,7 +53,7 @@ public class MainActivity extends BaseActivity implements VersionContract.View, 
 
         notifyExtras = new NotifyExtras();
 
-//        versionPresenter.getLastVersion();
+        versionPresenter.getLastVersion();
 
         registerBroadcastReceiver();
 
@@ -72,13 +68,12 @@ public class MainActivity extends BaseActivity implements VersionContract.View, 
         tvTitleLeft.setVisibility(View.GONE);
 
         tvStart = findViewById(R.id.tvStart);
-        tvStart.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                PreferencesUtil.removeOptions();
-                intent2Activity(FreightActivity.class);
+        tvStart.setOnClickListener(v -> {
+            PreferencesUtil.removeOptions();
+            intent2Activity(FreightActivity.class);
 //                intent2Activity(ResultActivity.class);
-            }
+//                intent2Activity(SalesLeadActivity.class);
+//                intent2Activity(EnquiryActivity.class);
         });
     }
 
@@ -356,9 +351,9 @@ public class MainActivity extends BaseActivity implements VersionContract.View, 
 
 
     @Override
-    public void onVersion(AppVersion bean) {
+    public void onVersion(ApkVersion bean) {
         if (bean != null) {
-            appVersion = bean;
+            apkVersion = bean;
             if (Integer.parseInt(bean.getVersionCode()) > DeviceUtils.getVersionCode(this)) {
                 new UpdateService(this).checkUpdate(bean);
             }
@@ -371,8 +366,8 @@ public class MainActivity extends BaseActivity implements VersionContract.View, 
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == 10086) {
             if (resultCode == RESULT_OK) {
-                if (appVersion != null) {
-                    new UpdateService(this).checkUpdate(appVersion);
+                if (apkVersion != null) {
+                    new UpdateService(this).checkUpdate(apkVersion);
                 }
             } else {
                 finish();

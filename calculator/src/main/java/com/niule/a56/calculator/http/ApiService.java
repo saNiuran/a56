@@ -6,7 +6,7 @@ import com.hokaslibs.mvp.bean.*;
 import java.util.List;
 
 import com.niule.a56.calculator.bean.*;
-import com.niule.a56.calculator.utils.update.manager.AppVersion;
+import com.niule.a56.calculator.utils.update.manager.ApkVersion;
 import com.niule.a56.calculator.base.BaseObject;
 import okhttp3.MultipartBody;
 import okhttp3.RequestBody;
@@ -49,7 +49,7 @@ public interface ApiService {
      * 版本更新
      */
     @POST("android/apk/version/last")
-    Observable<BaseObject<AppVersion>> getLastApkVersion(@Body RequestBody requestBody);
+    Observable<BaseObject<ApkVersion>> getLastApkVersion(@Body RequestBody requestBody);
 
 
     /**
@@ -87,4 +87,35 @@ public interface ApiService {
      */
     @POST("price/item/pack")
     Observable<BaseObject<PriceItemPack>> getPriceItemPack(@Body RequestBody body);
+
+    /**
+     * 获取 备注列表 PriceRow相关的
+     */
+    @POST("general/memo/combo")
+    Observable<BaseObject<List<GeneralMemo>>> getGeneralMemoCombo(@Body RequestBody body);
+
+    /**
+     * 获取 留言分类标题列表
+     */
+    @GET("sales/lead/question/template/list/all")
+    Observable<BaseObject<List<QuestionTemplate>>> getQuestionTemplateAll();
+
+    /**
+     * 创建销售线索
+     */
+    @POST("android/sales/lead/new")
+    Observable<BaseObject<SalesLead>> createSalesLead(@Body RequestBody body);
+
+    /**
+     *  上传图片
+     */
+    @Multipart
+    @POST("upload/cargo/photo")
+    Observable<BaseObject<List<ImagePath>>> upLoadImage(@Part MultipartBody.Part part);
+
+    /**
+     *  创建询盘
+     */
+    @POST("android/enquiry/new")
+    Observable<BaseObject<Enquiry>> createEnquiry(@Body RequestBody body);
 }

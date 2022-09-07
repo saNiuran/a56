@@ -24,7 +24,7 @@ import com.niule.a56.calculator.utils.PreferencesUtil;
 import com.niule.a56.calculator.utils.UiUtils;
 import com.niule.a56.calculator.utils.update.fileload.FileCallback;
 import com.niule.a56.calculator.utils.update.fileload.FileResponseBody;
-import com.niule.a56.calculator.utils.update.manager.AppVersion;
+import com.niule.a56.calculator.utils.update.manager.ApkVersion;
 import com.niule.a56.calculator.utils.update.updata.HttpClient;
 import com.niule.a56.calculator.BuildConfig;
 import com.niule.a56.calculator.R;
@@ -70,7 +70,7 @@ public class DownLoadService extends Service {
     private Retrofit.Builder retrofit;
 
     private ProgressDialog pd;
-    private AppVersion bean;
+    private ApkVersion bean;
 
     @Override
     public void onCreate() {
@@ -79,10 +79,10 @@ public class DownLoadService extends Service {
 
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
-        bean = new Gson().fromJson(PreferencesUtil.getDataString("version_update"), AppVersion.class);
+        bean = new Gson().fromJson(PreferencesUtil.getDataString("version_update"), ApkVersion.class);
         if (bean != null) {
             Log.d("DownLoadService", bean.toString());
-            destFileName = bean.getUrl();
+            destFileName = bean.getApkUrl();
             loadFile();
         }
         PreferencesUtil.removeDataString("version_update");

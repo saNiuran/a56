@@ -233,6 +233,10 @@
             android:screenOrientation="portrait"/>
         <activity android:name=".mvp.ui.activity.ResultActivity"
             android:screenOrientation="portrait"/>
+        <activity android:name=".mvp.ui.activity.SalesLeadActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".mvp.ui.activity.EnquiryActivity"
+            android:screenOrientation="portrait"/>
 
     </application>
 

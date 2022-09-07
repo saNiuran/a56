@@ -75,6 +75,35 @@ public class PricePresenter extends BasePresenter<PriceContract.Model, PriceCont
                                 mRootView.onPriceItemPackData(object.getData());
                             }
                         } else {
+                            if (object.getMessage() != null){
+                                if(object.getMessage().contains("最低起运")){
+                                    mRootView.onLessThanMinChargeWeight(object.getMessage());
+                                }else{
+                                    mRootView.showMessage(object.getMessage());
+                                }
+                            }
+                        }
+                    }
+                });
+    }
+
+    public void getGeneralMemoCombo(PriceRow priceRow){
+        RequestBody body = RequestBody.create(okhttp3.MediaType.parse("application/json; charset=utf-8"), new Gson().toJson(priceRow));
+
+        mModel.getGeneralMemoCombo(body)
+                .retryWhen(new RetryWithDelay(2, 10))//遇到错误时重试,第一个参数为重试几次,第二个参数为重试的间隔
+                .compose(XApi.<BaseObject<List<GeneralMemo>>>getApiTransformer())
+                .compose(XApi.<BaseObject<List<GeneralMemo>>>getScheduler())
+                .compose(BasePresenter.<BaseObject<List<GeneralMemo>>>bindToLifecycle(mRootView))//使用RXlifecycle,使subscription和activity一起销毁
+                .subscribe(new ErrorHandleSubscriber<BaseObject<List<GeneralMemo>>>(mErrorHandler) {
+                    @Override
+                    public void onNext(BaseObject<List<GeneralMemo>> object) {
+                        mRootView.hideLoading();
+                        if (0 == object.getRetCode()) {
+                            if (object.getData() != null && object.getData().size()>0) {
+                                mRootView.onGeneralMemoComboData(object.getData());
+                            }
+                        } else {
                             if (object.getMessage() != null)
                                 mRootView.showMessage(object.getMessage());
                         }

@@ -38,52 +38,6 @@ public class XApplication extends Application {
         if (BuildConfig.LOG_DEBUG) {//Timber日志打印
             Timber.plant(new Timber.DebugTree());
         }
-
-//        registerActivityLifecycleCallbacks(new ActivityLifecycleCallbacks() {
-//            @Override
-//            public void onActivityCreated(Activity activity, Bundle savedInstanceState) {
-//                Log.d(TAG, "onActivityCreated + " + activity);
-//            }
-//
-//            @Override
-//            public void onActivityStarted(Activity activity) {
-//                Log.d(TAG, "onActivityStarted + " + activity);
-//                mActivityCount++;
-//                Log.d(TAG, " onActivityStarted mActivityCount : " + mActivityCount);
-//            }
-//
-//            @Override
-//            public void onActivityResumed(Activity activity) {
-//                Log.d(TAG, "onActivityResumed+ " + activity);
-//            }
-//
-//            @Override
-//            public void onActivityPaused(Activity activity) {
-//                Log.d(TAG, "onActivityPaused+ " + activity);
-//            }
-//
-//            @Override
-//            public void onActivityStopped(Activity activity) {
-//                Log.d(TAG, "onActivityStopped + " + activity);
-//                mActivityCount--;
-//                Log.d(TAG, " onActivityStopped mActivityCount : " + mActivityCount);
-//                if (mActivityCount == 0)
-//                    PreferencesUtil.setDataBoolean(Constant.IS_HOME, true);
-//                else
-//                    PreferencesUtil.setDataBoolean(Constant.IS_HOME, false);
-//            }
-//
-//            @Override
-//            public void onActivitySaveInstanceState(Activity activity, Bundle outState) {
-//                Log.d(TAG, "onActivitySaveInstanceState+ " + activity);
-//            }
-//
-//            @Override
-//            public void onActivityDestroyed(Activity activity) {
-//                Log.d(TAG, "onActivityDestroyed + " + activity);
-//            }
-//        });
-
     }
 
     /**
@@ -96,7 +50,7 @@ public class XApplication extends Application {
     }
 
     /**
-     * 遍历所有Activigty并finish
+     * 遍历所有Activity并finish
      */
     public static void finishActivity() {
         for (Activity activity : activityList) {

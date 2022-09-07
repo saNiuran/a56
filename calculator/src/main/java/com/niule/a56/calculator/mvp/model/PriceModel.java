@@ -21,4 +21,9 @@ public class PriceModel extends BaseModel implements PriceContract.Model {
     public Observable<BaseObject<PriceItemPack>> getPriceItemPack(RequestBody body) {
         return mServiceManager.getPriceItemPack(body);
     }
+
+    @Override
+    public Observable<BaseObject<List<GeneralMemo>>> getGeneralMemoCombo(RequestBody body) {
+        return mServiceManager.getGeneralMemoCombo(body);
+    }
 }

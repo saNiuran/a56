@@ -1,4 +1,4 @@
-package com.hokaslibs.mvp.bean;
+package com.niule.a56.calculator.bean;
 
 import java.io.Serializable;
 

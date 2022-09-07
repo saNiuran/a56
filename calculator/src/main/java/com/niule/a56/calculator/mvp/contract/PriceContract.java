@@ -13,6 +13,8 @@ public interface PriceContract {
     interface View extends BaseView {
         void onChargeUnitListData(List<ChargeUnit> list);
         void onPriceItemPackData(PriceItemPack pack);
+        void onGeneralMemoComboData(List<GeneralMemo> list);
+        void onLessThanMinChargeWeight(String message);
     }
 
     interface Model {
@@ -26,5 +28,9 @@ public interface PriceContract {
          */
         Observable<BaseObject<PriceItemPack>> getPriceItemPack(RequestBody body);
 
+        /**
+         * 获取 备注列表 PriceRow相关的
+         */
+        Observable<BaseObject<List<GeneralMemo>>> getGeneralMemoCombo(RequestBody body);
     }
 }

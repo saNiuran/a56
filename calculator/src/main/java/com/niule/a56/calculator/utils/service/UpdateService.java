@@ -23,7 +23,7 @@ import com.flyco.dialog.widget.ActionSheetDialog;
 import com.google.gson.Gson;
 import com.niule.a56.calculator.utils.PreferencesUtil;
 import com.niule.a56.calculator.utils.UiUtils;
-import com.niule.a56.calculator.utils.update.manager.AppVersion;
+import com.niule.a56.calculator.utils.update.manager.ApkVersion;
 import com.niule.a56.calculator.utils.update.utils.DeviceUtils;
 
 import java.io.File;
@@ -48,22 +48,22 @@ public class UpdateService {
     /**
      * 检测软件更新
      */
-    public void checkUpdate(AppVersion appVersion) {
+    public void checkUpdate(ApkVersion apkVersion) {
         int mVersionCode = DeviceUtils.getVersionCode(mContext);
-        int nVersionCode = Integer.parseInt(appVersion.getVersionCode());
+        int nVersionCode = Integer.parseInt(apkVersion.getVersionCode());
         if (mVersionCode < nVersionCode) {
             // 版本的更新信息
             String versionInfo = "检测到本程序有新版本" +
                     "\n当前版本:V " + DeviceUtils.getVersionName(mContext) +
-                    "\n新的版本:" + appVersion.getVersionName() +
-                    "\n更新内容：" + appVersion.getContent() +
+                    "\n新的版本:" + apkVersion.getVersionName() +
+                    "\n更新内容：" + apkVersion.getContent() +
                     "\n建议您更新！";
             // 显示提示对话
-            showNoticeDialog(versionInfo, appVersion);
+            showNoticeDialog(versionInfo, apkVersion);
         }
     }
 
-    private void showNoticeDialog(String info, final AppVersion appVersion) {
+    private void showNoticeDialog(String info, final ApkVersion apkVersion) {
         AlertDialog.Builder builder = new AlertDialog.Builder(mContext);
         builder.setTitle("更新提示");
         builder.setMessage(info);
@@ -73,7 +73,7 @@ public class UpdateService {
 //                down(appVersion);
 //                ActionSheetDialog(appVersion);
                 if (Environment.getExternalStorageState().equals(Environment.MEDIA_MOUNTED)) {
-                    showRequestPermissionAlertInstall(appVersion);
+                    showRequestPermissionAlertInstall(apkVersion);
                 } else
                     UiUtils.makeText("SD存储卡不存在，请插入SD存储卡");
                 dialog.dismiss();
@@ -83,11 +83,11 @@ public class UpdateService {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 dialog.dismiss();
-                if (appVersion.getType() == 1)    //强制退出
+                if (apkVersion.getUpdateForce() == 1)    //强制退出
                     UpdateService.this.activity.finish();
             }
         });
-        if (appVersion.getType() == 1) {
+        if (apkVersion.getUpdateForce() == 1) {
             builder.setCancelable(false);
         }
         Dialog dialog = builder.create();
@@ -95,7 +95,7 @@ public class UpdateService {
     }
 
     //弹出选择下载方式
-    private void ActionSheetDialog(final AppVersion appVersion) {
+    private void ActionSheetDialog(final ApkVersion apkVersion) {
         String[] stringItems = new String[]{"直接下载", "浏览器下载"};
         final ActionSheetDialog dialog = new ActionSheetDialog(mContext, stringItems, null);
         dialog.isTitleShow(false).show();
@@ -104,14 +104,14 @@ public class UpdateService {
             public void onOperItemClick(AdapterView<?> parent, View view, int position, long id) {
                 if (0 == position) {
                     if (Environment.getExternalStorageState().equals(Environment.MEDIA_MOUNTED)) {
-                        showRequestPermissionAlertInstall(appVersion);
+                        showRequestPermissionAlertInstall(apkVersion);
                     } else
                         UiUtils.makeText("SD存储卡不存在，请插入SD存储卡");
                 }
                 if (1 == position) {
                     Intent intent = new Intent();
                     intent.setAction("android.intent.action.VIEW");
-                    Uri content_url = Uri.parse(appVersion.getUrl());
+                    Uri content_url = Uri.parse(apkVersion.getApkUrl());
                     intent.setData(content_url);
                     mContext.startActivity(intent);
                 }
@@ -150,25 +150,25 @@ public class UpdateService {
         }
     }
 
-    public void down(AppVersion appVersion) {
+    public void down(ApkVersion apkVersion) {
         UiUtils.makeText("正在下载安装包，下载完成后直接跳到安装界面");
         Intent intent = new Intent(mContext, DownLoadService.class);
 //        Bundle bundle = new Bundle();
 //        bundle.putString("bean", new Gson().toJson(appVersion));
 //        intent.putExtra("bundle", bundle);
-        PreferencesUtil.setDataString("version_update", new Gson().toJson(appVersion));
+        PreferencesUtil.setDataString("version_update", new Gson().toJson(apkVersion));
         mContext.startService(intent);
     }
 
     /**
      * 下载权限
      */
-    public void showRequestPermissionAlert(final AppVersion appVersion) {
+    public void showRequestPermissionAlert(final ApkVersion apkVersion) {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             boolean isGranted = PermissionUtils.hasSelfPermissions(mContext,
                     Manifest.permission.READ_EXTERNAL_STORAGE, Manifest.permission.WRITE_EXTERNAL_STORAGE);
             if (isGranted) {
-                down(appVersion);
+                down(apkVersion);
                 return;
             }
             CheckPermission.from(mContext).setPermissions
@@ -176,7 +176,7 @@ public class UpdateService {
                     (new PermissionListener() {
                         @Override
                         public void permissionGranted() {
-                            down(appVersion);
+                            down(apkVersion);
                         }
 
                         @Override
@@ -185,7 +185,7 @@ public class UpdateService {
                         }
                     }).check();
         } else {
-            down(appVersion);
+            down(apkVersion);
         }
     }
 
@@ -230,18 +230,18 @@ public class UpdateService {
     /**
      * 安装权限
      */
-    public void showRequestPermissionAlertInstall(final AppVersion appVersion) {
+    public void showRequestPermissionAlertInstall(final ApkVersion apkVersion) {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             boolean isGranted = mContext.getPackageManager().canRequestPackageInstalls();
             if (isGranted) {
-                showRequestPermissionAlert(appVersion);
+                showRequestPermissionAlert(apkVersion);
                 return;
             }
             CheckPermission.from(mContext).setPermissions(Manifest.permission.REQUEST_INSTALL_PACKAGES).setPermissionListener
                     (new PermissionListener() {
                         @Override
                         public void permissionGranted() {
-                            showRequestPermissionAlert(appVersion);
+                            showRequestPermissionAlert(apkVersion);
                         }
 
                         @Override
@@ -251,7 +251,7 @@ public class UpdateService {
                         }
                     }).check();
         } else
-            showRequestPermissionAlert(appVersion);
+            showRequestPermissionAlert(apkVersion);
     }
 
 }
